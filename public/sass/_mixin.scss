@@ -1,0 +1,9 @@
+@mixin bottomIcon($path,$size)
+{
+     display: inline-block;
+     width: $size;
+     height: $size;
+     background-image: url(../public/img/icon/#{$path});
+     background-size:$size;
+     background-repeat:no-repeat;
+} 

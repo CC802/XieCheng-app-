@@ -1,0 +1,2744 @@
+{
+    "data": [{
+        "externalIds": [{
+            "appCode": "botao",
+            "id": "5772"
+        }, {
+            "appCode": "jinjiang",
+            "id": "5772"
+        }, {
+            "appCode": "plateno",
+            "id": "5772"
+        }, {
+            "appCode": "qunar",
+            "id": "suqian_4227"
+        }, {
+            "appCode": "ctrip",
+            "id": "23886334"
+        }, {
+            "appCode": "elong",
+            "id": "93472042"
+        }, {
+            "appCode": "meituan",
+            "id": "170665868"
+        }],
+        "enviRating": 5,
+        "avgPrice": null,
+        "openDate": "2018-10-12",
+        "servRating": 5,
+        "businessStatus": "开业",
+        "url": "http:\/\/hotel.bestwehotel.com\/HotelDetail\/?hotelId=5772",
+        "sortId": null,
+        "openingHours": "入住时间: 12:00至23:59 离店时间: 12:00之前",
+        "price": 236,
+        "telephones": ["81081880", "0527-88185588", "13770755426", "0527-81081880"],
+        "goodRatingRatio": 1,
+        "ratingDist": [{
+            "key": "全部评价",
+            "value": 177
+        }, {
+            "key": "好评",
+            "value": 174
+        }, {
+            "key": "中评",
+            "value": 2
+        }, {
+            "key": "差评",
+            "value": 1
+        }],
+        "peculiarity": null,
+        "address": "江苏宿迁西湖路36号宝龙广场24街25号楼(近宝龙南巷)",
+        "infoScore": 0.99999999953521,
+        "title": "潮漫酒店(宿迁宝龙广场店)",
+        "imageUrls": ["http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBRd7.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fG3p5.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBRd2.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBRcF.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/e33cbe89658ed2ccb6a6d71668ae36ea5298751.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/926f4ce0673fe4388eabbca89e2bfa8c202682.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nsGVUL7u", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/09bbf5e541f280dc201d92601df154b71726957.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200q0x000000l23kz9BD7_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBRd4.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/b5920bbf55a6d193d74eeaf912987c6d1127625.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/72832c9c078a238ab2f3ec21e87f7fc5136657.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nv44jPd9", "http:\/\/images.plateno.com\/images\/inn\/18nsJ60AYJ", "http:\/\/images.plateno.com\/images\/inn\/18nva6SoU8", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/bf42a85df52e65e95b009b29475ad877340015.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fD3q0.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/280i0w000000kemb0C4C2_C_550_412_Q50.jpg_.webp", "http:\/\/images.plateno.com\/images\/inn\/18nsIEJjsn", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fKVpb.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/c7e1451a2c410936868e75c2a3479ccc151409.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nsTqPqE9", "http:\/\/images.plateno.com\/images\/inn\/18nsNnobfx", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/c29e6dbde09124962a757c2b93e4175e1142727.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nsHtSGeO", "http:\/\/images.plateno.com\/images\/inn\/18nsJxeRca", "https:\/\/dimg04.c-ctrip.com\/images\/280o0w000000kdv05C359_C_550_412_Q50.jpg_.webp", "http:\/\/images.plateno.com\/images\/inn\/18nsFmnAyP", "http:\/\/images.plateno.com\/images\/inn\/18nsLJqyyS", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/1bb180f68a7be66b05a28eff16ddb265134080.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nsI2WrUB", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/399ae6135ecc1f02d90c0ce8dbbdd4f0456777.png", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/9d5f53f616965213a784cc1d210b361d447012.png", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBRda.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nsGCMcwr", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/5ef67f5083a7f8f40cb027c1800af14a7192287.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/9b33ef07f58213a803a1cd7859d94d5d5165193.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/5f81f8e8fada4c9f44aded1b92925c1b5675623.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/f2eb7767a3b2afbbee1461813ac6fca7183553.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/42bfa957ab474ea803bc18f5a3b55f3f158287.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/1db6d08c28324bb89d551d9687315e473190592.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/390ec55f8136461e96ce5054cf9cc092180184.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/e03950857c48d441f22f6b1de0841cfa2583493.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/605a09d37bf6d028ebdbc3d1255f38ba107741.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/b83278dac37ad1659f1f4c8ec10aadec355009.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/22657967264745c77627ba223fc437f1157027.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/be24b0cac73d39c0a63aff3093779a837131075.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/280m0w000000koglc1C47_C_550_412_Q50.jpg_.webp", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/9051a428485434782c0aacf5d7e05567181109.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBRcz.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/dc00676117e70c5d8f8d7f4ff06246cc5210179.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/3096ec341e8d288773f1ab0bf9931a4e144089.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/0ae14b37d63a40952ec3b89e8a100c585041986.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/4847bcd5364dcb5ef743fa6fc373e2b51572104.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/5fba6f33a3e227569f4f72c2eff4b9ec2235855.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fD3pl.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nsKWcSBH", "http:\/\/images.plateno.com\/images\/inn\/18nsOz4isp", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/d31c60e30714984c6f7317b6776dd9f8163161.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/79e4ea91fc3a28337f9fa3692395e631192506.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nsUOeoTc", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/fb32bedd6eb73f4957ef1e5796e6f5542024855.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nvfEb8UG", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fD3pv.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nsK68IVp", "http:\/\/images.plateno.com\/images\/inn\/18nvh51gyz", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBRd8.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/a7b4b19116f8d6d66ce494c1676a1c0e7674059.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/9f3ecb267ba9c4c1b2a0f8c4c0595b18151778.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/9c4f0860502b8dabfa0476df8d4fb5ea1548026.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/20231ab813f40139a360697f34648f5c110276.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/dc45a4ea9e33fb5d4ade5cab072bf4e45749333.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/d0788be55aca151aac0c350dd53fc2242005003.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/52845dde980be2fffa381f59bc9bf547283408.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/013e2364d8cecce739722b4e1717d9ab4804035.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/53ea47c51b2f74a03d7cabb23d766feb1818116.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nsHPgAh2", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/8a468c690aa5023b14320ef2802912461856568.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/ccf4b83fb7cdd18d023c71d747a8fed7865011.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/f99e7fd18c4910aee46194e76c4237732077287.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/83469dd76e6e34ea151d03066421f430223164.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/ca44686d12c4a258bd8a411cdfb50c08485866.png", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/afbae8b5f679e23bb7dff028056cc89c66967.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/792c777805f579e11442fadec1a3e393165861.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nsG5VaZP", "http:\/\/images.plateno.com\/images\/inn\/18nsMpRiHy", "http:\/\/images.plateno.com\/images\/inn\/18nsD61sOX", "http:\/\/images.plateno.com\/images\/inn\/18nsHf52nr", "http:\/\/images.plateno.com\/images\/inn\/18nvfUbiXF", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBRd6.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/c2313431786d15b0e4df14ed5f816da1143868.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fD3pR.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nsytOSVu", "http:\/\/images.plateno.com\/images\/inn\/18nveGBuFz", "http:\/\/images.plateno.com\/images\/inn\/18nvibwReD", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/19f7dd2725f984f52f127392a222d1872056872.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/a90062e430b8640f68363350e7a1770d196295.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/dddaef0a4933b1da1e3467afc81eb4647367007.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/3fcdfae37b32a6b0764e09f6f961c3b7135398.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/18e503bddee0f59c66357f32a8f5e8ad102318.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/4a21cab268e3c51af785aab3cc8d2a1a4699238.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/2067eda262cb48b3ee9bf20b526921be6693478.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fKVlv.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/a62ee614a25edd472ce1958c5a130495495518.png", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/2fca89472ddd48efb917b8d123c256f194269.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nsMHdy4l"],
+        "services": [{
+            "price": null,
+            "saleCount": null,
+            "id": "19",
+            "name": "24小时热水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "20",
+            "name": "吹风机",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "5",
+            "name": "有线上网",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "46",
+            "name": "免费wifi",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "40",
+            "name": "免费洗漱用品",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "39",
+            "name": "免费瓶装水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "36",
+            "name": "行李寄存",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "42",
+            "name": "叫醒服务",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "38",
+            "name": "免费停车",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "41",
+            "name": "免费地图",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "43",
+            "name": "无烟房",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "44",
+            "name": "接机服务",
+            "marketPrice": null
+        }],
+        "appCode": "idataapi",
+        "roomCount": 67,
+        "keyValues": [{
+            "key": "酒店政策",
+            "value": "实名制入住、一人一证！"
+        }, {
+            "key": "服务评分",
+            "value": 5
+        }, {
+            "key": "环境评分",
+            "value": 5
+        }, {
+            "key": "设备评分",
+            "value": 5
+        }, {
+            "key": "地理位置评分",
+            "value": 5
+        }],
+        "honorCommentCount": 2,
+        "city": "宿迁",
+        "unifiedId": 89328967,
+        "id": "89328967",
+        "goodTagDist": [{
+            "key": "服务热情",
+            "value": 191
+        }, {
+            "key": "位置好",
+            "value": 147
+        }, {
+            "key": "床舒服",
+            "value": 139
+        }, {
+            "key": "设施齐全",
+            "value": 52
+        }, {
+            "key": "早餐赞",
+            "value": 45
+        }, {
+            "key": "性价比高",
+            "value": 17
+        }],
+        "emails": null,
+        "location": null,
+        "description": "ZMAX潮漫酒店(宿迁宝龙广场店) 是铂涛旗下力推的中端品牌。酒店位于宿迁市中心宝龙广24街25号楼，毗邻美食一条街，酒店位置优越，交通便利：出门即是美食一条街，步行3分钟之内就是宝龙广场、金鹰天地广场、水韵城、楚街等 。距离宿迁市客运中心3公里，让您的行程不在因为劳累而找不到好的入住需求。 潮漫酒店宿迁宝龙广场店全体员工期待您的光临。",
+        "promotions": null,
+        "country": "anman",
+        "rating": 5,
+        "assistServices": ["叫车服务", "行李寄存", "邮政服务", "送餐服务", "接站服务"],
+        "tags": null,
+        "infrastructures": ["电脑网线", "拖鞋", "国际长途电话", "电热水壶", "宽带上网", "客厅", "无线WiFi覆盖", "电子磁卡门锁", "有线电视", "按摩浴缸", "收费停车", "空调", "24小时热水", "数字电视", "床具：羽绒被", "公共区域上网", "浴室化妆放大镜", "浴袍", "毛巾", "浴巾", "公共区域空调", "220伏直流电", "前台保险柜", "浴帽", "无线上网", "遮光窗帘", "电梯", "全部房间内高速上网", "沙发", "吹风机", "餐厅", "独立卫浴", "多用电源插座", "床具：毛毯或被子", "主题房", "液晶电视机", "电子遥控窗帘", "免费洗漱用品", "烟雾探测器", "免费茶包", "无烟房", "星级优眠床垫", "针线包", "客房免费宽带上网", "书桌\/椅", "剃须刀", "洗手间", "写字台", "淋浴房", "城市景观", "免费咖啡", "休息区", "免费瓶装水", "公共区域WiFi免费", "110V电压插"],
+        "pros": null,
+        "geoPoint": {
+            "lon": 118.288185,
+            "lat": 33.947404
+        },
+        "discountInfo": null,
+        "star": 4,
+        "minPrice": 0,
+        "likeCount": null,
+        "businessDistrict": "克拉嗨谷\/商业区",
+        "state": "江苏",
+        "district": "宿城区",
+        "brandName": "潮漫",
+        "infraRating": 5,
+        "commentCount": 994,
+        "createDate": 1548948605,
+        "hasWifi": 1,
+        "badTagDist": null,
+        "level": "四星级\/高档",
+        "favoriteCount": 548,
+        "decorationDate": "2018年"
+    }, {
+        "externalIds": [{
+            "appCode": "qunar",
+            "id": "linyi_6264"
+        }, {
+            "appCode": "feizhu",
+            "id": "53528486"
+        }, {
+            "appCode": "ctrip",
+            "id": "9665901"
+        }, {
+            "appCode": "elong",
+            "id": "93357428"
+        }, {
+            "appCode": "elong",
+            "id": "92511480"
+        }, {
+            "appCode": "meituan",
+            "id": "160702202"
+        }],
+        "avgPrice": null,
+        "titleAliases": null,
+        "openDate": "2017年开业",
+        "geoPoint": {
+            "lon": 117.93282318115,
+            "lat": 35.715171813965
+        },
+        "unifiedId": 80227385,
+        "url": "http:\/\/hotel.qunar.com\/city\/linyi\/dt-6264\/",
+        "dislikeCount": 0,
+        "description": "房间数：50间\n\n干净卫生 设施设备好  性价比高",
+        "openingHours": "入住时间: 14:00以后  离店时间: 12:00之前",
+        "price": 128,
+        "telephones": ["0539-7336666", "25200000001"],
+        "goodRatingRatio": 0,
+        "peculiarity": null,
+        "address": "山东蒙阴新城路223号(贵和阳光小区南门)",
+        "title": "蒙阴榴莲糖果精选酒店(蒙阴贵和店)",
+        "imageUrls": ["http:\/\/userimg.qunar.com\/imgs\/201709\/24\/C._M0DCi9f3iPSrjwMi76.jpg"],
+        "pros": null,
+        "appCode": "idataapi",
+        "roomCount": 60,
+        "keyValues": [{
+            "key": null,
+            "value": "入住时间：14:00以后      离店时间：12:00以前"
+        }],
+        "honorCommentCount": 0,
+        "id": "80227385",
+        "facilities": ["独立卫浴", "拖鞋", "电热水壶", "无电话", "隔音设施", "遮光布", "书桌", "免费wifi", "液晶电视\/等离子电视", "iPod扩充基座", "免费洗漱用品", "空调", "24小时热水", "独立用餐区", "电视", "吹风机"],
+        "infoScore": 0.9999999993972,
+        "promotions": null,
+        "city": "临沂",
+        "lowPrice": 128,
+        "rating": 5,
+        "tags": ["大床", "含早", "年度盛典", "闪电确认", "双床", "免费取消"],
+        "ratingCount": 1,
+        "floorCount": 4,
+        "state": "山东",
+        "decorationDate": "2016年装修",
+        "star": 2,
+        "minPrice": 0,
+        "likeCount": null,
+        "infrastructures": ["商务中心", "中餐", "吸烟区", "残疾人设施", "大堂吧", "前台贵重物品保险柜", "图书馆", "会议室", "公共休息室\/电视室", "无游泳池", "24小时前台", "电梯", "免费停车场", "商店"],
+        "assistServices": ["礼宾接待服务", "旅游咨询服务", "行李寄存", "支持信用卡", "票务服务", "叫醒服务", "24小时客房服务"],
+        "district": "蒙阴县",
+        "brandName": "榴莲小星",
+        "location": null,
+        "services": [{
+            "price": null,
+            "saleCount": null,
+            "id": "19",
+            "name": "24小时热水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "46",
+            "name": "免费wifi",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "38",
+            "name": "免费停车",
+            "marketPrice": null
+        }],
+        "discountInfo": null,
+        "hasWifi": 0,
+        "level": "二星级\/经济",
+        "commentCount": 981,
+        "favoriteCount": 980,
+        "businessDistrict": "县政府"
+    }, {
+        "externalIds": [{
+            "appCode": "qunar",
+            "id": "lijiang_11846"
+        }, {
+            "appCode": "ctrip",
+            "id": "6108189"
+        }, {
+            "appCode": "elong",
+            "id": "92035936"
+        }],
+        "avgPrice": null,
+        "openDate": "2016年",
+        "commentCount": 5121,
+        "unifiedId": 77644727,
+        "url": "http:\/\/hotel.qunar.com\/city\/lijiang\/dt-11846\/",
+        "dislikeCount": 0,
+        "description": "房间数：30间\n\n久栖·丽江耿家别院精品客栈是以纳西民居院落式建筑为特色时尚大气的客栈，位于世界文化遗产丽江古城中心，经典的，三防一照壁，四合五天井，位置在四方街，可以坐在院子喝茶、打牌、聊天、晒太阳，有提供茶室，提供茶具、茶叶，二楼晒台，可以在上面听歌，发呆，本客栈经营模式，自家管理，人性化模式，夫妻店，老板东北的，老板娘四川的，房间内均配备43寸高清液晶电视、空调，覆盖无线宽带网络。\n独立卫生间，品牌卫浴、品牌洗浴用品、高档舒适的床品、这里的时光是属于你的，有着百年悠久历史，纳西马锅头故居，古色古香的传统丽江耿家客栈，舒适的住处，让您在丽江找到家的感觉，让您发呆得有理，闲暇得有趣，众多特色超值服务，为您量身打造。\n",
+        "openingHours": null,
+        "price": 180,
+        "telephones": ["0888-5336636"],
+        "goodRatingRatio": 1,
+        "peculiarity": "入住这里的浪漫圆床房，让你感受到非比寻常的体验，为你的爱情增添一抹难以忘却的美好记忆。",
+        "address": "新义街积善巷71号(近红楼餐馆)",
+        "title": "久栖·丽江耿家别院精品客栈",
+        "imageUrls": ["https:\/\/dimg04.c-ctrip.com\/images\/200i090000003v7558C06_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0006q6vD.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0006W94r.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008bSQp.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000aeQkp.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0006UESK.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008bSQ2.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dIsLg.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008bR9z.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008bQh5.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008bSQv.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e1SRW.jpg", "http:\/\/userimg.qunar.com\/imgs\/201610\/20\/JhS1_tbZu8lb3GMVJ76.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008bQh9.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/20070a0000004o76s9199_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dIsJU.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008bSRD.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008bSQ3.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dCU47.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008bSRF.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0006q6s5.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200b090000003u9y93DF5_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008bQik.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008bQie.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008bSQr.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dIsKe.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dIsKT.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008bSRA.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008bQii.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dIsKy.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200i0a0000004o6tv9155_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008bR9y.jpg"],
+        "services": [{
+            "price": null,
+            "saleCount": null,
+            "id": "19",
+            "name": "24小时热水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "20",
+            "name": "吹风机",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "46",
+            "name": "免费wifi",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "12",
+            "name": "餐厅",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "40",
+            "name": "免费洗漱用品",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "39",
+            "name": "免费瓶装水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "36",
+            "name": "行李寄存",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "42",
+            "name": "叫醒服务",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "37",
+            "name": "收费停车",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "41",
+            "name": "免费地图",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "44",
+            "name": "接机服务",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "43",
+            "name": "无烟房",
+            "marketPrice": null
+        }],
+        "appCode": "idataapi",
+        "roomCount": 30,
+        "keyValues": [{
+            "key": null,
+            "value": "入住时间：14:00以后      离店时间：12:00以前"
+        }, {
+            "key": "儿童与加床",
+            "value": "不接受18岁以下客人单独入住。不接受18岁以下客人在无监护人陪同的情况下入住加床政策、儿童人数请参见您所选定的客房政策，若超过房型限定人数，可能需收取额外费用。提出的任何要求均需获得酒店的确认，所有服务详情以酒店告知为准。"
+        }, {
+            "key": "膳食安排",
+            "value": "酒店不提供早餐"
+        }, {
+            "key": "宠物",
+            "value": "允许携带宠物，不收取额外费用。"
+        }],
+        "honorCommentCount": 4116,
+        "id": "77644727",
+        "promotions": null,
+        "rating": 5,
+        "tags": null,
+        "level": "三星级\/舒适",
+        "star": 3,
+        "minPrice": 170,
+        "likeCount": null,
+        "infoScore": 1,
+        "businessDistrict": "大研古城",
+        "district": "古城区",
+        "brandName": "久栖酒店",
+        "pros": null,
+        "state": "云南",
+        "assistServices": ["送餐服务", "接站服务", "叫车服务", "行李寄存", "邮政服务"],
+        "location": null,
+        "city": "丽江",
+        "infrastructures": ["棋牌室", "电热水壶"],
+        "decorationDate": null,
+        "geoPoint": {
+            "lon": 100.23442840576,
+            "lat": 26.87518119812
+        }
+    }, {
+        "externalIds": [{
+            "appCode": "qunar",
+            "id": "dali_8404"
+        }, {
+            "appCode": "ctrip",
+            "id": "791119"
+        }, {
+            "appCode": "elong",
+            "id": "91735969"
+        }],
+        "avgPrice": null,
+        "openDate": "2016年",
+        "commentCount": 1917,
+        "unifiedId": 77610331,
+        "url": "http:\/\/hotel.qunar.com\/city\/dali\/dt-8404\/",
+        "dislikeCount": 0,
+        "description": "房间数：12间\n\n久栖·大理丹若客栈位于大理古城东玉街，百步之内往南到洱海门人民路，可漫逛古城创意小店；品大理特色小吃。\n北行约百步至玉洱路果子园可乘小巴前往双廊、喜洲、周城、蝴蝶泉等名胜古迹。\n骑车到才村海边漫步、赏田园风光，交通便利、四通八达。\n 这里闹中取静，白族民居与简约自然风混搭成的小院绿草青青，玛格四季花开不败，小鱼缓缓游动。\n石榴树下饮茶看书，赏云卷云舒，无暇时光的流动，岁月静好。\n 客房光线充足，全实木的家俱，简约精巧，有多种房型可供选择，各具风格。\n室内设施齐全、高速上网、空调等一应俱全；缎棉床品、巾类，宝洁家化，环保体贴，尽可舒心安眠。\n 客栈还有各种旅游票务、叫车、行李寄存、叫醒、有偿接送站、接送机等各式管家服务，详情请咨询客栈。\n丹若客栈与你相约，在石榴树下随叶落花开、春华秋实、夏云冬眠，看四季的变化，感受奇妙的旅行。\n",
+        "openingHours": null,
+        "infrastructures": ["电热水壶", "免费市内电话"],
+        "telephones": ["0872-2569869"],
+        "goodRatingRatio": 1,
+        "peculiarity": null,
+        "address": "云南大理市古城人民路下段东玉街39号(近洱海门、人民路、玉洱路)",
+        "title": "久栖·大理丹若客栈",
+        "imageUrls": ["http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000amb4T.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4sEm.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9S0X.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200t050000000px6d785A_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9RQW.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0006KyJz.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9S1d.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4sG9.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dgRP8.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9RYE.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4sCL.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000ak9oZ.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000aJkLm.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9S3T.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dgROD.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9S1K.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000akaQv.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dgRSz.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9RWx.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0005Unyv.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fmyP1.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000akaQ9.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9RYc.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4sFq.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9S6v.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9RVy.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4sxT.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fmyOD.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4sv7.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9RW7.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9RQQ.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000ambGf.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9S0J.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000ambFH.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200n050000000pz508332_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000ambGb.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9S1w.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dgRRH.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0005Unyl.jpg", "http:\/\/userimg.qunar.com\/imgs\/201607\/21\/JhS1_t5er6fkbydeJ76.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dgRQW.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4sEt.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4sAO.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4sxJ.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9RYw.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4szK.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000ak9pd.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9RXU.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dgRSI.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9RYm.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4sx3.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4svn.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4sFg.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dgRRs.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0006KAYv.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fmyP8.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dgRQJ.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000ak9oS.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000ak9p5.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9RWt.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dgRRL.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dgRRg.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9RWn.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4sFH.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4sGr.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000akaQl.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9S1c.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dgROQ.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0006Z8Ys.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/20060d0000006xweoA5B2_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dgRQx.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9S6u.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fmyOA.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c9RWg.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200c0k000000ccbik5511_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e4sEC.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fmyOx.jpg"],
+        "pros": null,
+        "appCode": "idataapi",
+        "roomCount": 12,
+        "keyValues": [{
+            "key": null,
+            "value": "入住时间：13:00以后      离店时间：12:00以前"
+        }, {
+            "key": "儿童与加床",
+            "value": "不接受18岁以下客人单独入住。不接受18岁以下客人在无监护人陪同的情况下入住"
+        }, {
+            "key": "膳食安排",
+            "value": "酒店不提供早餐"
+        }, {
+            "key": "宠物",
+            "value": "不可携带宠物。"
+        }],
+        "honorCommentCount": 986,
+        "id": "77610331",
+        "promotions": null,
+        "rating": 5,
+        "tags": null,
+        "decorationDate": "2018年03月01日",
+        "star": 3,
+        "minPrice": 0,
+        "likeCount": null,
+        "infoScore": 1,
+        "city": "大理",
+        "district": "大理市",
+        "brandName": "久栖酒店",
+        "location": null,
+        "services": [{
+            "price": null,
+            "saleCount": null,
+            "id": "19",
+            "name": "24小时热水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "20",
+            "name": "吹风机",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "46",
+            "name": "免费wifi",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "40",
+            "name": "免费洗漱用品",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "39",
+            "name": "免费瓶装水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "36",
+            "name": "行李寄存",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "42",
+            "name": "叫醒服务",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "41",
+            "name": "免费地图",
+            "marketPrice": null
+        }],
+        "price": 185,
+        "level": "三星级\/舒适",
+        "state": "云南",
+        "businessDistrict": "大理古城",
+        "geoPoint": {
+            "lon": 100.1696472168,
+            "lat": 25.697416305542
+        },
+        "assistServices": ["叫车服务", "自行车租赁", "行李寄存", "邮政服务", "送餐服务", "全天前台"]
+    }, {
+        "externalIds": [{
+            "appCode": "qunar",
+            "id": "huangshan_6314"
+        }, {
+            "appCode": "feizhu",
+            "id": "53291040"
+        }],
+        "avgPrice": null,
+        "titleAliases": null,
+        "openDate": "2017年开业",
+        "commentCount": 875,
+        "unifiedId": 77273008,
+        "url": "http:\/\/hotel.qunar.com\/city\/huangshan\/dt-6314\/",
+        "description": "房间数：16间\n\n客房整洁，宽敞明亮，环境卫生，性价比较高。\n",
+        "openingHours": null,
+        "infrastructures": ["无餐厅", "无游泳池", "免费停车场"],
+        "telephones": ["13335698802", "15855599187"],
+        "address": "黟县 宏村景区内 月沼5号 ，近月沼",
+        "title": "亲的客栈黄山宏村店",
+        "imageUrls": ["http:\/\/userimg.qunar.com\/imgs\/201609\/07\/leZjIkleEYVYO5-uk76.jpg"],
+        "state": "安徽",
+        "appCode": "idataapi",
+        "roomCount": 12,
+        "keyValues": null,
+        "assistServices": null,
+        "brandId": null,
+        "id": "77273008",
+        "facilities": ["免费wifi", "独立卫浴", "无电话"],
+        "promotions": null,
+        "lowPrice": 165,
+        "tags": ["大床", "含早", "年度盛典", "闪电确认", "双床", "免费取消"],
+        "floorCount": 3,
+        "level": "二星级\/经济",
+        "star": 2,
+        "services": [
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "19",
+                "name": "24小时热水",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "20",
+                "name": "吹风机",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "46",
+                "name": "免费wifi",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "12",
+                "name": "餐厅",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "9",
+                "name": "健身房",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "40",
+                "name": "免费洗漱用品",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "39",
+                "name": "免费瓶装水",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "36",
+                "name": "行李寄存",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "42",
+                "name": "叫醒服务",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "37",
+                "name": "收费停车",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "41",
+                "name": "免费地图",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "44",
+                "name": "接机服务",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "43",
+                "name": "无烟房",
+                "marketPrice": null
+            }
+        ],
+        "minPrice": 0,
+        "likeCount": null,
+        "infoScore": 0.999999994978,
+        "city": "黄山",
+        "district": "黟县",
+        "brandName": "亲的客栈",
+        "rating": 5,
+        "ratingCount": 0,
+        "location": null,
+        "hasWifi": 0,
+        "decorationDate": "2017年装修",
+        "price": 165,
+        "geoPoint": {
+            "lon": 117.99147033691,
+            "lat": 30.003765106201
+        },
+        "businessDistrict": "宏村景区内"
+    }, {
+        "externalIds": [{
+            "appCode": "meituan",
+            "id": "2469484"
+        }],
+        "id": "107224398",
+        "infoScore": 0.99999997195451,
+        "openDate": "2011年",
+        "unifiedId": 107224398,
+        "goodTagDist": [{
+            "key": "停车方便",
+            "value": 11
+        }, {
+            "key": "干净卫生",
+            "value": 290
+        }, {
+            "key": "交通便利",
+            "value": 9
+        }, {
+            "key": "房间大",
+            "value": 86
+        }, {
+            "key": "位置好",
+            "value": 152
+        }, {
+            "key": "性价比高",
+            "value": 259
+        }, {
+            "key": "价格实惠",
+            "value": 147
+        }, {
+            "key": "服务热情",
+            "value": 289
+        }, {
+            "key": "环境优雅",
+            "value": 52
+        }, {
+            "key": "温馨",
+            "value": 13
+        }, {
+            "key": "体验很棒",
+            "value": 11
+        }, {
+            "key": "床舒服",
+            "value": 7
+        }, {
+            "key": "布置温馨",
+            "value": 7
+        }, {
+            "key": "设施齐全",
+            "value": 7
+        }, {
+            "key": "空间大",
+            "value": 4
+        }],
+        "openingHours": "入住时间: 14:00以后  离店时间: 13:00之前",
+        "commentCount": 789,
+        "rating": 5,
+        "city": "湖州",
+        "tags": ["今夜特价"],
+        "favoriteCount": 789,
+        "url": "http:\/\/www.meituan.com\/shop\/2469484",
+        "geoPoint": {
+            "lon": 119.970605,
+            "lat": 30.537087
+        },
+        "level": "三星级\/舒适",
+        "star": 3,
+        "minPrice": 0,
+        "telephones": ["0572-8076888"],
+        "state": "浙江",
+        "decorationDate": "2016年",
+        "district": "德清县",
+        "brandName": "水月清华宾馆",
+        "address": "德清县武康镇中兴南路39号（近沃尔玛，杭州后街余英坊）",
+        "hasWifi": 1,
+        "title": "湖州水月清华时尚酒店(德清正翔广场莫干山下渚湖店)",
+        "imageUrls": ["http:\/\/p1.meituan.net\/0.0\/tdchotel\/cca071e02d44b4afcf3d15ab9281b82883532.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/1589d58d1e19d5aeba579d36e7bb01261033480.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/a6b0cece2607abaf5ce9552e7780d6df272240.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/f440b07acf2fff00955790af21164963214937.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/7339e9ddcae0e70c0312acd4a1bc0014267656.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/a03ed124ced1ed371a057e6284e6c5d7111761.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/1f04556bba82dcfd6a717ae333a33a2a847874.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/38801e832f33aefc1abcd5df3a1b481e274733.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/a9b4d7d43b282cfff4fd5369085b68e0318504.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/6951f3e4918e8a4c11307a3c2558bdaa6555022.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/f2fe4b3b811ef29973523bbdaf6cd800315943.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/fa4209ca7646ea0754a91146849bab7f247140.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/9e477f9b5406258d03fdc8744be3d1551405409.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/9dc45d0de924fddc0ac9eeda9fb03ff1112365.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/2b0b78684a7ab6dcc6ca1bbbf9554d0e717495.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/a4aebfeee3a6240a2f9775554a5ad8bf315770.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/a74387e328f0da8dc445636568b571b1325328.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/74c0f12c4c97a076b486e6e46cb559d75536628.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/7a41ac755a5c6bd516db6aa1857f3f47475781.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/b53b6c2af7a1124b9ef9cca7aa389ef8344027.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/467194cb58666f4aa61194236708f5b098444.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/5df1b86630813e86dda982cea894815c94377.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/d7b174c7c5f1130665af5e41e610945595130.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/9622c56c220163f6a10f622d3380cf36635726.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/1659dde161052251a6a3f2e7388c8b52478282.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/0044c0104bc58186b0bdcc75e9a04990823067.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/af25754e11d088028e1270fab6fef2df251393.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/ccbe2b917a2e638eab4e76f25f8dde97141551.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/a13b063c78a796c31dfbabdbfb9607e0242334.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/c685f5a9994b44c54c656b42f24ecff2269661.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/b2c45cecca2697e2b50e7782ead6f990130559.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/4ab748cfb143d18943389a1654508e1d938007.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/5a026f3e6d13da094c2c6b624d49e64798882.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/1e6732da899cb976a5ba03bbff33ec43280171.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/867d9694d948436d593d8f92b756dfde243704.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/257217348aecb9e35fd813749900eeaf99946.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/cfb368307c2a513250b23f6bd34c7fca271976.jpg"],
+        "badTagDist": null,
+        "appCode": "idataapi",
+        "roomCount": 68,
+        "price":110,
+        "services": [
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "19",
+                "name": "24小时热水",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "20",
+                "name": "吹风机",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "46",
+                "name": "免费wifi",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "12",
+                "name": "餐厅",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "9",
+                "name": "健身房",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "40",
+                "name": "免费洗漱用品",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "39",
+                "name": "免费瓶装水",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "36",
+                "name": "行李寄存",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "42",
+                "name": "叫醒服务",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "37",
+                "name": "收费停车",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "41",
+                "name": "免费地图",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "44",
+                "name": "接机服务",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "43",
+                "name": "无烟房",
+                "marketPrice": null
+            }
+        ],
+        "discountInfo": null
+    }, {
+        "externalIds": [{
+            "appCode": "qunar",
+            "id": "lijiang_9702"
+        }, {
+            "appCode": "feizhu",
+            "id": "50830003"
+        }, {
+            "appCode": "ctrip",
+            "id": "1814170"
+        }, {
+            "appCode": "elong",
+            "id": "90837473"
+        }, {
+            "appCode": "meituan",
+            "id": "40394691"
+        }],
+        "avgPrice": null,
+        "titleAliases": null,
+        "openDate": "2015年开业",
+        "geoPoint": {
+            "lon": 100.24003601074,
+            "lat": 26.86856842041
+        },
+        "unifiedId": 80221691,
+        "url": "http:\/\/hotel.qunar.com\/city\/lijiang\/dt-9702\/",
+        "dislikeCount": 0,
+        "description": "房间数：10间\n\n花筑·丽江凡途观景客栈位于丽江古城七一街八一下段，近月季井、署古井文化走廊，周边环境幽雅静谧，旅游出行便捷。\n\r\n\r\n花筑·丽江凡途观景客栈保留了纳西庭院的古朴清雅，推开客栈木门，即可感受一份悠闲与浪漫；整体装饰古典与诗意并存，装点以丹青墨宝、精致石雕，复古别致；客房布置将纳西民居的原始风味与现代居住理念完美融合，多款房型内均配以柔软的床榻、原木家私、齐全的卫浴设施，打造惬意休眠空间。\n\r\n\r\n客栈提供热情质朴的服务，入住于此，宾客可领略丽江自然与人文的精髓，沐浴于古镇柔软的阳光下，体验纳西浓郁的民俗风情。\n",
+        "openingHours": "入住时间: 14:00以后  离店时间: 12:00之前",
+        "price": 353,
+        "telephones": ["18608882859", "0888-3061116"],
+        "goodRatingRatio": 1,
+        "peculiarity": null,
+        "address": "古城区七一街八一下段151号（近木府、丽江古城南门）",
+        "title": "花筑·丽江凡途观景客栈",
+        "imageUrls": ["http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gB5zO.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gB5BC.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0005Axho.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i1\/TB1d8O6OVXXXXbjaXXXX.0tFpXX_120134.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0005Axer.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000ed6CN.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gB5AA.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200n0g0000007t7m1FE58_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gB5Au.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i7\/TB1k2OcSFXXXXXAXFXXqOcM7VXX_015837.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i3\/TB1tl9KSFXXXXcgXFXXw2WX_VXX_063848.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0005Axe9.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i4\/TB1AyF3SFXXXXabXVXXOYux8XXX_020335.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i5\/TB15Qt6SFXXXXcOXFXX9WTL8XXX_021251.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i5\/TB1cgatSFXXXXbGXXXXV1F48XXX_020100.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i8\/TB1AuaiOVXXXXbDaXXXkmTo7VXX_015138.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0005AuGV.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000cwOPU.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i5\/TB1e3enOVXXXXXPXFXXNVK8_pXX_055748.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/20080z000000ncqowFF8E_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0005AuH4.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gB5BP.jpg", "http:\/\/img.alicdn.com\/bao\/uploaded\/i6\/TB1w7GSOVXXXXcXapXXwkRtFpXX_120133.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c4cHR.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i2\/TB1eGelSFXXXXaSXpXXHryR8XXX_020506.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gsPHp.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gsPHf.jpg", "凡途精品客栈保留了纳西庭院的古朴清雅，推开客栈木门，即可感受一份悠闲与浪漫；整体装饰古典与诗意并存，装点以丹青墨宝、精致石雕，复古别致。", "https:\/\/img.alicdn.com\/bao\/uploaded\/i4\/TB1vi8xSFXXXXaWaFXXHdaL8XXX_020444.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i6\/TB1rG8WSFXXXXcyXVXXzl4R8XXX_020004.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i6\/TB1ACdKSFXXXXXtapXXNhiV8XXX_020532.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/20030o000000fgntq7498_C_550_412_Q50.jpg_.webp", "https:\/\/dimg04.c-ctrip.com\/images\/20080g0000007t71c0D42_C_550_412_Q50.jpg_.webp", "https:\/\/dimg04.c-ctrip.com\/images\/200k0z000000nh3pxFC36_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000eFN1z.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gB5C0.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000c4cHV.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i2\/TB19xGGOVXXXXXfXpXXGyLo7VXX_015137.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0005AuGp.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gB5zS.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i6\/TB1YguBSFXXXXXiXXXXEYNW8XXX_020030.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e7i0q.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i7\/TB1JJJ3OVXXXXbHaXXXrJS8_pXX_055749.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gB5zM.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i5\/TB1nqlGSFXXXXbBapXX523d7VXX_015553.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i7\/TB15q9pSFXXXXXqXpXXkOWF8XXX_020413.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i2\/TB1BwJTOVXXXXcOapXXNVK8_pXX_055748.jpg", "http:\/\/img.alicdn.com\/bao\/uploaded\/i7\/TB1JJJ3OVXXXXbHaXXXrJS8_pXX_055749.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000ed6CA.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0005Axed.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i7\/TB1GySxSFXXXXafXXXXUySv8XXX_020326.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gB5B2.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i5\/TB101mrSFXXXXcyXXXXJgbu8XXX_021126.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i3\/TB1pHSwSFXXXXaJXXXXoKu98XXX_020633.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i1\/TB18TnmOVXXXXc2XpXXwkRtFpXX_120133.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gXzrS.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i3\/TB10kOnSFXXXXXRXpXXOuKl8XXX_020241.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gB5BW.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i3\/TB1ak1nSFXXXXXZXpXXOI9r8XXX_020303.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200s0n000000e8q02CADB_C_550_412_Q50.jpg_.webp", "http:\/\/img.alicdn.com\/bao\/uploaded\/i8\/TB1jed2OVXXXXXyapXX6a2i_pXX_055853.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e7i0x.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gB5Ag.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i5\/TB1ppqfSFXXXXXmXFXXOUgn7VXX_015642.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000eFN1v.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e7i1z.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i7\/TB11uS1OVXXXXb4aXXXwkRtFpXX_120133.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000ctOXs.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000cwOOu.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e7hZY.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i2\/TB1y9ajSFXXXXbeXpXXJz9y8XXX_020344.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i4\/TB1lM_zOVXXXXbpXXXXSwJtFpXX_120132.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i2\/TB1fzyvOVXXXXX0XFXXGyLo7VXX_015137.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e7i3s.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i7\/TB1jxLdOVXXXXXhXVXXX.0tFpXX_120134.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i4\/TB1P4WjSFXXXXbFXpXX847i7VXX_015609.jpg", "客房布置将纳西民居的原始风味与现代居住理念完美融合，多款房型内均配以柔软的床榻、原木家私、齐全的卫浴设施，打造惬意休眠空间。 ", "http:\/\/img.alicdn.com\/bao\/uploaded\/i8\/TB1ZJWPOVXXXXbaaFXXtxXuFpXX_120136.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0005AuGR.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i4\/TB10jJ1SFXXXXaRXVXXQdP38XXX_021405.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0005AuGM.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i6\/TB1w7GSOVXXXXcXapXXwkRtFpXX_120133.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gB5zI.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i8\/TB1wrDtOVXXXXalXpXXwkRtFpXX_120133.jpg", "丽江凡途精品客栈位于丽江古城七一街八一下段，近月季井、署古井文化走廊，周边环境幽雅静谧，旅游出行便捷。", "http:\/\/img.alicdn.com\/bao\/uploaded\/i8\/TB1wgCYOVXXXXb5aXXXwkRtFpXX_120133.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i2\/TB1aGV.SFXXXXbtXFXXgk558XXX_020613.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i8\/TB1YNN.SFXXXXbhXFXXJlKs8XXX_020312.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e7i1g.jpg"],
+        "state": "云南",
+        "appCode": "idataapi",
+        "roomCount": 10,
+        "keyValues": [{
+            "key": null,
+            "value": "入住时间：13:00以后      离店时间：0:00-12:00"
+        }, {
+            "key": "儿童与加床",
+            "value": "不接受18岁以下客人单独入住。不接受18岁以下客人在无监护人陪同的情况下入住加床政策、儿童人数请参见您所选定的客房政策，若超过房型限定人数，可能需收取额外费用。提出的任何要求均需获得酒店的确认，所有服务详情以酒店告知为准。"
+        }, {
+            "key": "膳食安排",
+            "value": "酒店不提供早餐"
+        }, {
+            "key": "宠物",
+            "value": "不可携带宠物。"
+        }],
+        "honorCommentCount": 299,
+        "id": "80221691",
+        "facilities": ["DVD\/CD播放器", "独立卫浴", "赠饮", "拖鞋", "电热水壶", "浴袍", "闹钟", "书桌", "免费wifi", "液晶电视\/等离子电视", "洗衣机", "免费洗漱用品", "干衣机", "空调", "24小时热水", "阳台\/露台", "国内长途（免费）", "吹风机"],
+        "infoScore": 0.99999995090154,
+        "city": "丽江",
+        "promotions": null,
+        "country": "Xi'an",
+        "lowPrice": 388,
+        "rating": 5,
+        "tags": ["复式Loft", "大床", "古镇漫步", "含早", "年度盛典", "近景点", "闪电确认", "雪山胜景", "双床", "免费取消"],
+        "ratingCount": 202,
+        "floorCount": 2,
+        "commentCount": 761,
+        "decorationDate": "2015年装修",
+        "star": 4,
+        "minPrice": 0,
+        "likeCount": null,
+        "infrastructures": ["公共厨房", "吸烟区", "免费市内电话", "无餐厅", "酒吧", "棋牌室", "电热水壶", "大堂吧", "免费国内长途", "收费停车场", "前台贵重物品保险柜", "无游泳池", "咖啡厅", "24小时前台"],
+        "assistServices": ["接送服务", "叫醒服务", "专职行李员", "洗衣服务", "会议室", "接待外宾", "行李寄存", "邮政服务", "送餐服务", "全天前台", "租车", "接站服务", "24小时客房服务"],
+        "district": "古城区",
+        "brandName": "花筑酒店",
+        "pros": null,
+        "services": [{
+            "price": null,
+            "saleCount": null,
+            "id": "19",
+            "name": "24小时热水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "20",
+            "name": "吹风机",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "46",
+            "name": "免费wifi",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "12",
+            "name": "餐厅",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "9",
+            "name": "健身房",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "40",
+            "name": "免费洗漱用品",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "39",
+            "name": "免费瓶装水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "36",
+            "name": "行李寄存",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "42",
+            "name": "叫醒服务",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "37",
+            "name": "收费停车",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "41",
+            "name": "免费地图",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "44",
+            "name": "接机服务",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "43",
+            "name": "无烟房",
+            "marketPrice": null
+        }],
+        "discountInfo": null,
+        "hasWifi": 0,
+        "level": "四星级\/高档",
+        "location": null,
+        "favoriteCount": 6,
+        "businessDistrict": "大研古城"
+    }, {
+        "externalIds": [{
+            "appCode": "feizhu",
+            "id": "50244976"
+        }, {
+            "appCode": "meituan",
+            "id": "4128144"
+        }],
+        "businessDistrict": "北部及经济开发区",
+        "titleAliases": null,
+        "openDate": "2010-08年开业",
+        "commentCount": 745,
+        "unifiedId": 79970451,
+        "url": "http:\/\/hotel.fliggy.com\/hotel_detail2.htm?shid=50244976",
+        "description": "地处凤城二路与未央路十字东北角新天地时代广场C座，周边交通便利，购物方便。\n为来陕求职、旅游、学习、上班的朋友们提供安全、温馨、经济的住宿环境。",
+        "openingHours": "入住时间: 14:00以后  离店时间: 12:00之前",
+        "price": 68,
+        "telephones": ["18092718589"],
+        "address": "西安未央区凤城二路十字天地时代广场C座609室",
+        "title": "西安阳光宾馆凤城二路店",
+        "imageUrls": null,
+        "state": "陕西",
+        "appCode": "idataapi",
+        "roomCount": 20,
+        "assistServices": null,
+        "id": "79970451",
+        "facilities": null,
+        "rating": 5,
+        "tags": ["大床", "含早", "年度盛典", "闪电确认", "双床", "免费取消"],
+        "floorCount": null,
+        "level": "其他",
+        "star": 0,
+        "city": "西安",
+        "infoScore": 0.99999993238515,
+        "decorationDate": "2010年装修",
+        "district": "未央区",
+        "brandName": "阳光宾馆",
+        "discountInfo": null,
+        "geoPoint": {
+            "lon": 108.94839,
+            "lat": 34.31873
+        },
+        "infrastructures": null,
+        "hasWifi": 0,
+        "minPrice": 39,
+        "lowPrice": 68,
+        "favoriteCount": 745,
+        "ratingCount": 0
+    }, {
+        "externalIds": [{
+            "appCode": "qunar",
+            "id": "jiaxing_9945"
+        }, {
+            "appCode": "ctrip",
+            "id": "18419606"
+        }, {
+            "appCode": "elong",
+            "id": "93204077"
+        }],
+        "avgPrice": null,
+        "openDate": "2018年",
+        "commentCount": 645,
+        "unifiedId": 77588539,
+        "url": "http:\/\/hotel.qunar.com\/city\/jiaxing\/dt-9945\/",
+        "description": "房间数：4间\n\n兰庭客栈(西塘烟雨长廊店)位于西塘古镇景区中心，是集休闲度假、人文影像、住宿娱乐为一体的精品客栈，是古镇少有的现代与古风结合的私人会所。\n也是您来到西塘古镇商务和休闲的热门之选。\n",
+        "openingHours": null,
+        "infrastructures": ["电热水壶"],
+        "telephones": ["15167318893"],
+        "goodRatingRatio": 1,
+        "peculiarity": null,
+        "address": "浙江嘉善西塘镇小桐圩26弄6号(近环秀桥)",
+        "title": "兰庭客栈(西塘烟雨长廊店)",
+        "imageUrls": ["https:\/\/dimg04.c-ctrip.com\/images\/20030s000000hnb1w9914_C_550_412_Q50.jpg_.webp", "https:\/\/dimg04.c-ctrip.com\/images\/200g0u000000isohxF7E9_C_550_412_Q50.jpg_.webp", "https:\/\/dimg04.c-ctrip.com\/images\/20060u000000islyi532F_C_550_412_Q50.jpg_.webp",
+              "http:\/\/userimg.qunar.com\/imgs\/201510\/10\/JhS1_thmOpSGdWDOJ76.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000egadS.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dbpC5.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGd6u.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000egady.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGd2f.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000egazH.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000egaA9.jpg"],
+        "pros": null,
+        "appCode": "idataapi",
+        "roomCount": 4,
+        "keyValues": [{
+            "key": null,
+            "value": "入住时间：14:00以后      离店时间：12:00以前"
+        }, {
+            "key": "膳食安排",
+            "value": "酒店不提供早餐"
+        }, {
+            "key": "宠物",
+            "value": "不可携带宠物。"
+        }],
+        "honorCommentCount": 124,
+        "id": "77588539",
+        "promotions": null,
+        "country": "moerben",
+        "rating": 5,
+        "tags": null,
+        "decorationDate": null,
+        "star": 3,
+        "minPrice": 359,
+        "likeCount": null,
+        "infoScore": 0.99999950039118,
+        "city": "嘉兴",
+        "district": "嘉善县",
+        "brandName": "久栖酒店",
+        "location": null,
+        "services": [{
+            "price": null,
+            "saleCount": null,
+            "id": "19",
+            "name": "24小时热水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "20",
+            "name": "吹风机",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "5",
+            "name": "有线上网",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "46",
+            "name": "免费wifi",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "40",
+            "name": "免费洗漱用品",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "39",
+            "name": "免费瓶装水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "36",
+            "name": "行李寄存",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "42",
+            "name": "叫醒服务",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "37",
+            "name": "收费停车",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "41",
+            "name": "免费地图",
+            "marketPrice": null
+        }],
+        "price": 338,
+        "level": "三星级\/舒适",
+        "state": "浙江",
+        "businessDistrict": "西塘古镇",
+        "geoPoint": {
+            "lon": 120.89212799072,
+            "lat": 30.945365905762
+        },
+        "assistServices": ["全天前台", "行李寄存"]
+    }, {
+        "externalIds": [{
+            "appCode": "meituan",
+            "id": "180489414"
+        }],
+        "id": "118983655",
+        "openDate": "2018年",
+        "infoScore": 0.99997482260041,
+        "unifiedId": 118983655,
+        "hasWifi": 1,
+        "commentCount": 449,
+        "rating": 5,
+        "openingHours": "入住时间: 12:00至23:59 离店时间: 14:00之前",
+        "goodTagDist": [{
+            "key": "停车免费",
+            "value": 4
+        }, {
+            "key": "干净卫生",
+            "value": 260
+        }, {
+            "key": "房间大",
+            "value": 48
+        }, {
+            "key": "位置好",
+            "value": 112
+        }, {
+            "key": "价格实惠",
+            "value": 115
+        }, {
+            "key": "服务热情",
+            "value": 269
+        }, {
+            "key": "性价比高",
+            "value": 214
+        }, {
+            "key": "环境优雅",
+            "value": 29
+        }, {
+            "key": "温馨",
+            "value": 18
+        }, {
+            "key": "体验很棒",
+            "value": 9
+        }, {
+            "key": "布置温馨",
+            "value": 6
+        }, {
+            "key": "床舒服",
+            "value": 5
+        }, {
+            "key": "设施好",
+            "value": 5
+        }, {
+            "key": "清新淡雅",
+            "value": 5
+        }, {
+            "key": "没有异味",
+            "value": 4
+        }],
+        "city": "武汉",
+        "favoriteCount": 449,
+        "url": "http:\/\/www.meituan.com\/shop\/180489414",
+        "level": "二星级\/经济",
+        "star": 2,
+        "minPrice": 0,
+        "telephones": ["83664577", "027-83643201"],
+        "geoPoint": {
+            "lon": 114.251051,
+            "lat": 30.578819
+        },
+        "state": "湖北",
+        "district": "硚口区",
+        "brandName": "运7酒店",
+        "address": "硚口区营房路19号（距同济医院800米、距海军工程学院500米）",
+        "discountInfo": null,
+        "title": "运七连锁精选酒店(同济医院硚口路店)",
+        "imageUrls": ["http:\/\/p0.meituan.net\/0.0\/tdchotel\/64a161e653e27609fd46432df9b04766262226.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/fcbcd83640ca6bc1d73b0b31d25944c32807401.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/0c255bbce5e0326aceab81af42ccae2042364.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/6e316a970007dfa22c3cf2b761f1c9af2192821.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/bc9c047ef9521e7c1f5849181bace48d2876618.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/e816cc85c00e449051401443d75a6fba263124.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/0c01c33f4f144f92cbb7bf2b2bedd2bb1542726.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/7f58598374816cfcd726b32ef83951b71979413.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/b6a4fe4c792aa731ef1f600f798d10b41180844.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/5877e2864fe839c73bbd29b0620a88cb3797570.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/748de8fdf79a1157249e7ab19085b22b1668312.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/d537b759431ef8fdfeb12a067954e4f82743322.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/55b31da73edd64c6c1ade02e5368b2ef1826221.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/c5908427285f49a7ca81008d393872d82235706.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/561b35880de09c9ca20d0a8a35e94961180912.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/26738ae9284d8a5029b745209d32808f1818141.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/3b8983d8475c3cf82022293bb905cc4a141769.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/1f1a34bba4c53b58e5492a0d034f8df63405752.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/175cdd30b23cc9bd56f9cf595d09b810975713.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/ba9d5bf3fc2dee02396633efe49e1d8e1453606.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/b9a03a5c50aefdff407479e0ecd023041540106.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/e84fa5a8760e7046ad056002f22c0fe11561530.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/f4ee76facb5a542d3cc5d503e50b1975775012.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/2a78e3fa73488451eff17e5e87366b0e1966631.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/8e27aa806df406487f4c71a949702bde490034.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/44d0fe244b9398264d77523c56491486943972.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/df2f0fe22e9bd31b049a95851953c38f54025.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/2c48d9ad4687c5f12a0ef746f25305fc726708.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/a5add57c411ac02f34868d6aa81fc0434173591.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/29a65527814537be8e40c56b5da8a901722181.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/86c16a13f26785dc4e420c67c18e0d621376471.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/18f977444f72c34980975cce0bb068b61356009.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/e6f9dcecf64eb49911395effc8d7f5792283884.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/3686857f7d5ec85f092f11945503dca91303529.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/44135a2e3b97a09131ef79b7abef30d02150736.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/053df754e32e8f297627dc0426cbb5d4279322.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/18b9fa7827d8a663ea5651b049e3a9fd2352444.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/32f5e886dff4fc4788012e85cc0de456125222.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/3f499b8679f9de901e0ebe78ce0ac18b1824538.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/ea70330c6cda842e0195ab52a92a7e8e1907727.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/2c3a12f54ae6bd5d26f6716370fd35fe1207165.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/bd9861f686e3a4492dba46740dbddc822315287.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/97a5eb6575aafd55952d85f17b56bc5b729617.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/f507b9b987af20eb3f091ff114ad3747102489.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/567e6c67272bd9d0a812f866f11b498c1814706.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/a04a2210d1499f6c49db21decaf292192154882.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/c62ff5df8016bd5019795ca9bef5cf432007252.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/90e1fd423d42284f85f78cd1e9dc60f32925112.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/e3fd627c093bac31115c999b555658ae32998.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/94181b60b12e6f1b9709acc21063266453115.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/10d1ad498391a886908987f9c4cea4241878973.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/46a201eb8aa4d4fe4892541e5e3db79d306375.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/f3e8164c6945778c30fad2b969bd5dcc2137663.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/71932964f31de157fd59d3c0641845591514203.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/dd95856b6e13c663bade8c23234465371921343.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/b4701adb7e44177a4e8e19bfa938867861996.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/241096123e0a5169ab2e53e5b524354b919275.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/d530782420c6f33075cc27dc2844a8032067547.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/5b77d88fb490baad4943b7d62906f6453477045.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/61fea38b6e0d8b7058b65f7d7c33e6f5304445.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/27fe67f6f7be894dc0d6f0622f432ebc1953657.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/1be3f7b5a1740c42b5856249dbc725cb177069.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/3baed144a9e8689e101745b61a4779191397970.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/bfc68f48e53a1db09fd3ff57d096ee142070598.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/66efc5e6f5fe69aa46e8e20a8da451861535799.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/057c6f3290827ac1a7a10b00c06b8b532348608.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/69807279fd15feb5366a43d0e54c1d5a1761993.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/b3bab40f6e96c0f0470a50cad3628b3a138496.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/06425cb3e5c564cbfcac0678ca5931fc2473046.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/451ddb39f6d761501e2b5b4bfb9ec38d61063.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/0eee6327c16a5390562d73e5157f2a5e59997.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/5a02ce00d22766c43452864ee429a8d1345718.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/35cb3969cb9241ffcc170e5d00c9f64a1656909.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/006edd4eb82d0e688905c0ccc30f974e78103.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/002c14202c17aa43ae63e1101b31ce5e2621037.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/249e2a5d464ba66ed0cca8492e39d9521268087.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/9657708f8cc285415abf853b2332089d2788868.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/9abb174be81f34c6f5c454ebd1cf80a81624542.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/5dda1bd12a775bda74da676df3253d751539486.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/43760f0af3993ff9feb0eb2e81e16d7a4025425.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/a05a9c0da236f60f7b0ce7dd5ec01a399781456.png", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/ce9323c19755934dc031a20eb360e8422385646.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/dd072e3efd80bc3234dce31f494772b25957915.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/ea78b1451cb753637a91435541b1745d3019822.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/1c6c6d178c4195f1d7d8a67353f0c3c81586696.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/d2780ecbf9cad89216c14117d771971e1467878.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/8046fbcfe77e2998035b55b13ae93f151658135.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/b4a7f45c189dabe42dbe8336f920cdce1796494.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/4ba9ef523f09aa0f0560a728adae1845715661.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/8954503505baaf99bb46aa7907d3bc851267209.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/c19a265c50db926638945a5a37d09f211736986.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/2670b0306e4f6edfc115af6f951a04672261259.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/f5a91daf94aaf67916ee79c22fb6016d2705858.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/2865708c5512a2664f13c4ff10f5ff792261028.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/43084ed3b83b445479a64ae546ec605c1970812.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/e942cab51e537fa22c9b07ca89ce039f1631746.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/159782194bd8b46f0408cf44e3eeaf762295320.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/6799948fb0e516c62cf22c7ea38927203630887.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/21362583f680ee4a7184af80c1159c02104707.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/1444c169d26b2f03031e03c6b04c6510898781.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/b783ee6294845f9b4e3fd179c974f1fb1726566.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/b054feebf7f5aeef5245eafc865508f72180461.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/c8cbeafee385732ab6072b06107381d64343120.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/06fe7d5c57a18e43e285cd6a40f5ebf52216252.jpg"],
+        "badTagDist": null,
+        "appCode": "idataapi",
+        "roomCount": 123,
+        "price":122,
+        "services": [
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "19",
+                "name": "24小时热水",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "20",
+                "name": "吹风机",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "46",
+                "name": "免费wifi",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "12",
+                "name": "餐厅",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "9",
+                "name": "健身房",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "40",
+                "name": "免费洗漱用品",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "39",
+                "name": "免费瓶装水",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "36",
+                "name": "行李寄存",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "42",
+                "name": "叫醒服务",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "37",
+                "name": "收费停车",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "41",
+                "name": "免费地图",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "44",
+                "name": "接机服务",
+                "marketPrice": null
+            },
+            {
+                "price": null,
+                "saleCount": null,
+                "id": "43",
+                "name": "无烟房",
+                "marketPrice": null
+            }
+        ],
+        "decorationDate": "2018年"
+    }, {
+        "externalIds": [{
+            "appCode": "qunar",
+            "id": "lijiang_11816"
+        }, {
+            "appCode": "ctrip",
+            "id": "6106899"
+        }, {
+            "appCode": "elong",
+            "id": "92007483"
+        }],
+        "avgPrice": null,
+        "openDate": "2013年",
+        "commentCount": 405,
+        "unifiedId": 80437283,
+        "url": "http:\/\/hotel.qunar.com\/city\/lijiang\/dt-11816\/",
+        "dislikeCount": 0,
+        "description": "房间数：28间\n\n酒店位于丽江市大研古镇光义街忠义巷51号。\n有家庭套房、复式房、大床房等各种房型。\n紧邻忠义市场和木府景区及白龙文化停车场。\n步行至四方街、天雨流芳5分钟，距大水车、万古楼等著名景点仅十分钟。\n院落里有花草、鱼塘、流水，二楼有摇椅，观景露台；一楼有自助厨房。\n客房配备木制家具、地毯、墙纸、加湿器、香薰。\n冬季有电褥子、电暖气，给出门在外的您一个温馨的家。\n",
+        "openingHours": null,
+        "infrastructures": ["棋牌室", "免费市内电话"],
+        "telephones": ["18087331010"],
+        "goodRatingRatio": 1,
+        "peculiarity": null,
+        "address": "云南丽江丽江古城区光义街忠义巷52号",
+        "title": "丽江诗悦之家精品客栈",
+        "imageUrls": ["http:\/\/userimg.qunar.com\/imgs\/201707\/12\/66I5P2gzpcONBIYZ676.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e6l8a.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000czsKd.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e6lh3.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNYc.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200e0a0000004ev3u52E0_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e6ldy.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNVi.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNZB.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNQN.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNQi.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvO1X.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000edmZ9.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000edmYY.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e6kYL.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvO37.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200g0a0000004ecmm9A1D_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvO0H.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNSP.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvO7H.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvO2L.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNXz.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNUM.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNYQ.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvO0t.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNU9.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e6lci.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e6lfv.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200d0a0000004ev8uCF4B_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNR5.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNWR.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvO15.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e6lgz.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e6lcZ.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNYE.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNTx.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000edmZy.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvO1I.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e6lei.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNVT.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dvNRV.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e6lbu.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e6l9F.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e6l2M.jpg"],
+        "pros": null,
+        "appCode": "idataapi",
+        "roomCount": 28,
+        "keyValues": [{
+            "key": null,
+            "value": "入住时间：14:00以后      离店时间：12:00以前"
+        }, {
+            "key": "儿童与加床",
+            "value": "不接受18岁以下客人单独入住。不接受18岁以下客人在无监护人陪同的情况下入住"
+        }],
+        "honorCommentCount": 2,
+        "id": "80437283",
+        "promotions": null,
+        "rating": 5,
+        "tags": null,
+        "decorationDate": "2015年",
+        "star": 2,
+        "minPrice": 254,
+        "likeCount": null,
+        "infoScore": 0.99993931059399,
+        "city": "丽江",
+        "district": "古城区",
+        "brandName": "去哪儿Q+酒店",
+        "location": null,
+        "services": [{
+            "price": null,
+            "saleCount": null,
+            "id": "19",
+            "name": "24小时热水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "20",
+            "name": "吹风机",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "5",
+            "name": "有线上网",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "46",
+            "name": "免费wifi",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "12",
+            "name": "餐厅",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "36",
+            "name": "行李寄存",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "43",
+            "name": "无烟房",
+            "marketPrice": null
+        }],
+        "price": 254,
+        "level": "二星级\/经济",
+        "state": "云南",
+        "businessDistrict": "大研古城 | 新城",
+        "geoPoint": {
+            "lon": 100.23404693604,
+            "lat": 26.867733001709
+        },
+        "assistServices": ["接待外宾", "全天前台", "租车", "行李寄存"]
+    }, {
+        "externalIds": [{
+            "appCode": "huazhu",
+            "id": "6120001"
+        }, {
+            "appCode": "qunar",
+            "id": "chengdu_49126"
+        }, {
+            "appCode": "ctrip",
+            "id": "27704913"
+        }, {
+            "appCode": "elong",
+            "id": "93577668"
+        }],
+        "avgPrice": 293.3,
+        "openDate": "2018年",
+        "geoPoint": {
+            "lon": 103.978346,
+            "lat": 30.626906
+        },
+        "businessStatus": "开业",
+        "url": "http:\/\/hotels.huazhu.com\/hotel\/detail\/6120001",
+        "description": "全季酒店（成都武侯新城酒店）位于武侯新城西部智谷商务区，毗邻武侯区政务中心、西部智谷、吾悦广场等购物中心；步行约10分钟可至地铁3号线武青南路站，地铁可直达春熙路、动物园、新南门汽车站。酒店有地上、地下物业停车场，可供住店客人停车。酒店设计是现代中性风与朴实生活理念的交融，空间中随手可触的竹、松、及大面积留白，为穿梭于纷繁城市狭隙中的旅人铺展开一方悠然静土。房间的布局上充分体现了现代实用主义，让顾客回归到真实的体验、亲切而舒适。酒店研选美国百年药妆品牌C.O BIGELOW洗手液以及美国KINGKOIL金可儿为全季专属打造的“云梦”床垫。超高速WIFI全覆盖、大堂商务区的苹果一体机与随心取用的现磨咖啡，为您营造出一个闲雅的社交氛围及休憩环境。在服务上，酒店提倡人们需要及适度的安然享受，当一切都回到最初的本质，让最直接的感受自然呈现",
+        "openingHours": "入住时间 14:00,退房时间 12:00",
+        "price": 265,
+        "telephones": ["028-86899222"],
+        "goodRatingRatio": 1,
+        "peculiarity": null,
+        "address": "距市中心5.3公里⋅ 红牌楼\/双楠",
+        "title": "全季成都武侯新城酒店",
+        "imageUrls": ["https:\/\/p.huazhu.com\/f\/p\/37hdrw.png", "https:\/\/p.huazhu.com\/f\/a\/fq2xpb.png", "https:\/\/p.huazhu.com\/f\/f\/hno2g1.png", "https:\/\/campaign.huazhu.com\/widget\/mdm\/7566\/d97632f8-bfe9-4f72-9604-e1495db64859\/2018-11-30-19-20-27-413.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gu8ZR.jpg", "https:\/\/p.huazhu.com\/f\/q\/jj7ziz.png", "https:\/\/p.huazhu.com\/f\/8\/04x42y.png", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gw9ck.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gkdlA.jpg", "https:\/\/p.huazhu.com\/f\/4\/852gbz.png", "https:\/\/p.huazhu.com\/f\/a\/6u3zp8.png", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gkdlG.jpg", "https:\/\/campaign.huazhu.com\/widget\/mdm\/7566\/de2b127a-1992-4cd1-8a4e-cbc0b94f7a00\/2019-01-06-15-02-18-227.jpg", "https:\/\/p.huazhu.com\/f\/1\/6b0mfu.png", "https:\/\/p.huazhu.com\/f\/d\/6h0pc1.png", "https:\/\/p.huazhu.com\/f\/1\/5naft6.png", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gkdm7.jpg", "https:\/\/p.huazhu.com\/f\/1\/vmz1zc.png", "https:\/\/p.huazhu.com\/f\/b\/rm1e70.png", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gkdlW.jpg", "https:\/\/p.huazhu.com\/f\/v\/c7hprc.png", "https:\/\/p.huazhu.com\/f\/e\/tplnwz.png", "https:\/\/p.huazhu.com\/f\/4\/wrfndi.png"],
+        "pros": null,
+        "appCode": "idataapi",
+        "roomCount": 132,
+        "keyValues": null,
+        "honorCommentCount": 5,
+        "id": "89622471",
+        "facilities": ["餐厅", "传真打印", "复印", "大堂wifi覆盖", "免费咖啡饮料", "商务休息区", "自助选房", "会议室", "停车场", "邮政服务", "POS机", "大厅上网", "前台保险箱"],
+        "promotions": null,
+        "infoScore": 0.99988944427262,
+        "rating": 5,
+        "unifiedId": 89622471,
+        "tags": ["最新预订：13小时前"],
+        "city": "成都",
+        "languages": ["zh"],
+        "infrastructures": ["电梯"],
+        "decorationDate": "2018年",
+        "star": 3,
+        "minPrice": 256,
+        "likeCount": null,
+        "tipInfo": null,
+        "services": [{
+                "price": null,
+                "saleCount": null,
+                "id": "19",
+                "name": "24小时热水",
+                "marketPrice": null
+            }, {
+                "price": null,
+                "saleCount": null,
+                "id": "20",
+                "name": "吹风机",
+                "marketPrice": null
+            }],
+        "district": "武侯区",
+        "brandName": "全季酒店",
+        "location": null,
+        "createDate": 1549980005,
+        "level": "三星级\/舒适",
+        "hasWifi": 0,
+        "state": "四川",
+        "commentCount": 375,
+        "businessDistrict": null,
+        "assistServices": ["接待外宾", "叫醒服务", "全天前台", "行李寄存"]
+    }, {
+        "externalIds": [{
+            "appCode": "vienna",
+            "id": "2420002"
+        }, {
+            "appCode": "qunar",
+            "id": "xuancheng_5164"
+        }, {
+            "appCode": "elong",
+            "id": "93670887"
+        }, {
+            "appCode": "meituan",
+            "id": "187420065"
+        }],
+        "enviRating": 0,
+        "avgPrice": null,
+        "openDate": "2019-01-09",
+        "commentCount": 375,
+        "businessStatus": "开业",
+        "url": "http:\/\/www.wyn88.com\/resv\/hotel_2420002.html",
+        "environment": "宣州区",
+        "description": "维也纳酒店（安徽宣城高铁站店）位于宣城市宣州区新火车站对面300米处，集宣州区政务中心、交通枢纽中心、银通国际商务中心为一体。周边有桃花潭、敬亭山、鳄鱼湖等著名旅游胜地，交通、购物、旅游十分便利。酒店楼高12层，采用欧州巴洛克风情设计，装修风格经典、雅致、艺术、温馨。同时拥有各类豪华客房，商务中心，多功能会议厅等配套设施，以“绅士般的品味，淑女般的亲切”为经营理念，舒适豪华、愉梦之床、安全便捷、高性价比的经营特色，让您细心品味温馨、尽情感悟超值。酒店拥有各类型客房114间。会议厅1个，满足各类客户不同需求、为客户提供住宿、会议一体化服务。酒店提供高速宽带上网、24小时热水等各类设施，维也纳酒店是您商业洽谈、度假休闲的至佳选择。是会晤及商旅人士出行的首选理想酒店，让您的旅行、商务、生活一步到位，享受从容！",
+        "branchTitle": "安徽宣城高铁站店",
+        "createDate": 1548252005,
+        "telephones": ["0563-3036666"],
+        "goodRatingRatio": 1,
+        "peculiarity": null,
+        "address": "宣州区建材路与龙川路交叉口东南角银通国际广场7号楼（近宣城火车站、宣城客运总站）",
+        "title": "维也纳酒店（安徽宣城高铁站店）",
+        "imageUrls": ["http:\/\/p1.meituan.net\/0.0\/tdchotel\/78ceefa4aa5bcc24fc5372cea4961be51072211.png", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/3cf6a64052f34ac414a928d2900e9e807262109.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/9154a9bf6671a7cc446a64bf8f6b4cb5185873.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/f09cca8b2ad92832cbd84fdb71b941fd184747.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gVp1y.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201901101652012021.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201901101308032058.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/54f3c3bd62b77d717f4aabdd57bfb067174906.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gVp1H.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/d00587fa8006af12870d5a1c8de7dfc8166855.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/0dc2c411f15b2fd723d0b388ec47befc9706082.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/e8784ffebffc5d937355fe5abbe4728e8444076.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/958f7be0656bb81fdcb973d405085d23143414.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/7e237aecb5dce7c2a57d1fa13dfc79461361826.png", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/4d37b0c9501f045b913e7597c4492a80175415.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/06f3671947cddc442179c1c88dffcc20187534.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/3904afcf534eb5fa3e752d0fe453fa1a174260.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/00bb4939f6e8e00ff81a791685392aad169978.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/9532f554aeefa166188a7a2254db0c28163250.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/8f33dbcfffefdca0f9e1e254c78b100d166760.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/0cc94ffe50f02fab7d470150ca80f5388618397.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gVp1v.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gVp1w.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201901101307032097.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gVp1z.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/9e37e1ac7a0014e4c3d208f67b174ceb202354.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/7dd8d77a6c8621579afe6d46508661501807973.png", "http:\/\/image.wyn88.com\/adminbranch\/201901101307004005.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/80195463041c2251c1599ace2c6eb6fa177100.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201901101653012097.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201901101305013011.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/b6c1a2c2dd408ccc28bffe729fc6d15e189365.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/67bbe5cfe8b28c02603e6d0c1ff2c1b4185206.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gVp1G.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/76ac814e1304a748b74ba9ae01945082195574.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/63a51c50a83e57cb2552cde962961023181787.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201901101652051078.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/e6a3f406c7e14d0c92405afe19a59687157349.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gVp1E.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201901101641043030.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gVp1s.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201901101641020066.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/e3f1b4542ddffaf9130b2500d2bbb8ac200077.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/2a845732afa06300af331007e94ea3379665050.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gVp1u.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gVp1B.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/c31742794578fdede2d16c525a26a98c136150.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/2949056a60947e06188489a201616a50201360.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/2b979db9b44ab5d72b7853051fdb818a2173531.png", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gVp1t.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/5eaac37efe40af78edde060fc841731a193287.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/7bf66c53ced6ab2f5ed2ad8af09855e7201247.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/f91c95dc4dc220f4202373ce1c2eb02a186825.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/341b9d55f3dce2b78625c14234cae681171423.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/f8b187375e5eb9f031f96da00691c2a88400215.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/542b89ffaaaf3ecc62cbd0b42b7b2830163534.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/ef6fb7b26496d5b5efa39fb5df8b0701178571.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201901101640055020.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201901101643010008.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/a4388826ee9f92116b5fc99c7ef894d78366031.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/5172874a6b71b328c4bde7d6d039dc0b164859.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gVp1x.jpg"],
+        "services": [{
+            "name": "宴会会议"
+        }, {
+            "name": "wi-fi"
+        }, {
+            "name": "早餐"
+        }, {
+            "name": "停车场"
+        }, {
+            "name": "商务中心"
+        }],
+        "appCode": "idataapi",
+        "roomCount": 114,
+        "keyValues": null,
+        "honorCommentCount": 4,
+        "infoScore": 0.99988944427262,
+        "unifiedId": 106163305,
+        "id": "106163305",
+        "city": "宣城",
+        "rating": 5,
+        "servRating": 0,
+        "price":180,
+        "level": "三星级\/舒适",
+        "promotions": null,
+        "qualRating": 0,
+        "lowPrice": 166,
+        "infrastructures": null,
+        "tags": null,
+        "assistServices": null,
+        "pros": null,
+        "geoPoint": {
+            "lon": 118.786127,
+            "lat": 30.95223
+        },
+        "decorationDate": "2018年",
+        "star": 3,
+        "minPrice": 0,
+        "likeCount": null,
+        "businessDistrict": null,
+        "state": "安徽",
+        "district": "宣州区",
+        "brandName": "维也纳酒店",
+        "infraRating": 0,
+        "goodTagDist": [{
+            "key": "干净卫生",
+            "value": 8
+        }, {
+            "key": "早餐赞",
+            "value": 65
+        }, {
+            "key": "高大上",
+            "value": 7
+        }, {
+            "key": "位置好",
+            "value": 141
+        }, {
+            "key": "服务热情",
+            "value": 175
+        }, {
+            "key": "床舒服",
+            "value": 139
+        }, {
+            "key": "设施好",
+            "value": 104
+        }, {
+            "key": "环境优雅",
+            "value": 7
+        }, {
+            "key": "床上用品很新",
+            "value": 16
+        }, {
+            "key": "体验很棒",
+            "value": 5
+        }, {
+            "key": "性价比高",
+            "value": 3
+        }, {
+            "key": "离车站近",
+            "value": 4
+        }],
+        "location": null,
+        "hasWifi": 1,
+        "badTagDist": null,
+        "openingHours": "入住时间: 00:00至23:59 离店时间: 12:00之前",
+        "favoriteCount": 367,
+        "discountInfo": null
+    }, {
+        "externalIds": [{
+            "appCode": "vienna",
+            "id": "3447001"
+        }, {
+            "appCode": "feizhu",
+            "id": "55364461"
+        }, {
+            "appCode": "elong",
+            "id": "93502563"
+        }, {
+            "appCode": "meituan",
+            "id": "169459774"
+        }],
+        "enviRating": 5,
+        "avgPrice": null,
+        "openDate": "2018-09-28",
+        "servRating": 5,
+        "businessStatus": "开业",
+        "url": "http:\/\/www.wyn88.com\/resv\/hotel_3447001.html",
+        "environment": "南城县,南城客运中心,南城火车站",
+        "description": "维也纳酒店（江西抚州南城店）隶属于维也纳酒店集团旗下中端酒店品牌，以音乐艺术为主题。酒店位于抚州市南城县河东大道七星塔旁，周边购物、娱乐、餐饮、休闲、银行、医院等配套齐全，交通便利，南城火车站出发到酒店打车10元即可，酒店到闹市区过桥3分钟便到，安静环保且方便快捷。酒店按高端标准设计装修，采用欧陆风情设计，舒适典雅，并配有自助早餐厅。同时酒店还配备可容纳100人左右高音效媒体会议室，可承接各类中小型会议。会议室单墙采取全面立体窗设计，当您会后疲惫，有美丽的江景可供君观赏。客户的满意度是衡量我们服务水平的标准，维也纳酒店秉承着“微笑服务行天下”的服务理念，以“绅士般品味，淑女般亲切”的经营理念，让您享受一份舒适、温馨的旅途。",
+        "branchTitle": "江西抚州南城店",
+        "price": 218,
+        "telephones": ["13697044985", "0794-7318888", "18979490007"],
+        "goodRatingRatio": 1,
+        "infoScore": 0.99979178442645,
+        "peculiarity": null,
+        "address": "江西抚州市南城县河东大道2号",
+        "rating": 4.99,
+        "title": "维也纳酒店（江西抚州南城店）",
+        "imageUrls": ["http:\/\/p1.meituan.net\/0.0\/tdchotel\/b8711fbba5fd94d6997d0130c183d29a502369.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/cbb2643238b3d7c9f3e4bc00d6ff39b72286510.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/c773c1a44a99d1b23bc4c2cadba23bf47430295.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/91c08107da01eedb9c52ea68052599d61959202.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/5ad9e09b7a0b9096830ebbbd5eb999e3814403.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i3\/TB1TqaXpgHqK1RjSZJnRKDNLpXa_101729.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/518eaab58022fa577451a80e8d18d88f155473.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhEE.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhxf.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhF3.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/57b7acc7824cacaa39097720391799c68969877.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fPGGK.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201811031158003079.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gI3H7.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/ed2c6394972a4c40ea45f8f3ece34c0a829366.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i5\/TB1XzX_pXzqK1RjSZSgklEpAVXa_101716.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fPGGf.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201811031150034001.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gI3J7.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhyj.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i4\/TB1hlh.pmzqK1RjSZFHDJP3CpXa_101718.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/6dba24ee1e0200fbf71247856e4337fd186873.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhCC.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhC8.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gI3mQ.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhDx.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/592a3321f88e44c912cf50a80bab84972539972.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/29fdd8c8cbaf9b43b0ba8a0a59152b5d186485.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/2fd7db6bd596b856044f53917b298d5d188472.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhFl.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201811031149034015.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/c3bb3a1980ca97db4df46c0d5a180a2e790306.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gI3FU.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/d37bbeebf0af1ee46a2dc1e7676b13282390455.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/7ebf887653087eb35ba66f05f87f8d962418829.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/b96be4cddec98b70112bbbad4ad6b76c2244236.jpg", "http:\/\/p1.meituan.net\/0.0\/hotelbiz\/084da3d24a92037a6354202ee9f13e11138994.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/2e2b5e46e497918a07d5ebf305b53505171531.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gI3Gv.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/6e17d69ed964933f70de64d1aeeac985120206.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhB6.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhG4.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/5f7106dcfb35aa0283fb3a4e5bd2dd67143011.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/fed36dfaab73eb4a90bbe6381dbeb199117014.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/fcedcf81724a4e73a7127833aacaf2062392592.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhyR.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fPGGU.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201811031203048069.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i7\/TB1Ju86phTpK1RjSZR00VHEwXXa_101720.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201811031158033022.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/873fe3f19e411c34c5017940b7cc1ed8170877.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gI3Jv.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/53b9d74429706bfd7998b446bfdb736d684539.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201811031203027064.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/7b0abc9ad5f5e6f7a04bf8b5699c6be52314217.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gI3KD.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/1c16fc08938d65d717d1ea314c3fe2f5636564.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i8\/TB1hQp9pgTqK1RjSZPhhxVfOFXa_101719.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i8\/TB1fJKapgHqK1RjSZFk0VF.WFXa_101720.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/bbbeed1c40334971b5c6eb8c57df16fa599624.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhGW.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fPGGv.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fPGFR.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gI3K1.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gI3EI.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhFL.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/5e92c65f5a4b125855c3c02fcb0fae84152252.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gI3IP.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i3\/TB1OPGwphjaK1RjSZKz0VFVwXXa_101717.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/46c7f01b47d2f2df61422d2f920558746209929.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i8\/TB1cRubpkvoK1RjSZFwklEiCFXa_101716.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhzo.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhxM.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhD5.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhEb.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/b05a198954c1518a9f0a4f2af8659a28702685.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhwQ.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/08583dcf158b14a007dfbde3c6ad81df2764467.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/a296721975f50381fc072d42c2294a308512216.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhBC.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/49917dc0cf4a23e96cbf81aacb8aaaf455084.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhGv.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/dc021ed933867414cec74b56ae950c108893656.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gI3lK.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gI3It.jpg", "http:\/\/image.wyn88.com\/adminbranch\/201811031157033007.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fPGH7.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gI3Cw.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhzV.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gI3HZ.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000gGhAl.jpg"],
+        "services": [{
+            "name": "早餐"
+        }, {
+            "name": "停车场"
+        }, {
+            "name": "wi-fi"
+        }, {
+            "name": "宴会会议"
+        }],
+        "appCode": "idataapi",
+        "roomCount": 152,
+        "keyValues": null,
+        "honorCommentCount": 32,
+        "unifiedId": 89592830,
+        "city": "抚州",
+        "id": "89592830",
+        "facilities": null,
+        "goodTagDist": [{
+            "key": "服务热情",
+            "value": 125
+        }, {
+            "key": "位置好",
+            "value": 89
+        }, {
+            "key": "床舒服",
+            "value": 86
+        }, {
+            "key": "设施好",
+            "value": 63
+        }, {
+            "key": "早餐赞",
+            "value": 30
+        }, {
+            "key": "干净卫生",
+            "value": 15
+        }],
+        "ratingCount": 6,
+        "level": "三星级\/舒适",
+        "promotions": null,
+        "qualRating": 5,
+        "lowPrice": 218,
+        "infrastructures": null,
+        "tags": ["大床", "购物便捷", "含早", "商务出行", "闪电确认", "会员权益", "双床", "免费取消"],
+        "assistServices": null,
+        "pros": null,
+        "geoPoint": {
+            "lon": 116.661319,
+            "lat": 27.566381
+        },
+        "decorationDate": "2017年",
+        "star": 3,
+        "minPrice": 0,
+        "likeCount": null,
+        "state": "江西",
+        "location": null,
+        "district": "南城县",
+        "brandName": "维也纳酒店",
+        "infraRating": 5,
+        "commentCount": 505,
+        "openingHours": "入住时间: 12:00至23:59 离店时间: 12:00之前",
+        "hasWifi": 1,
+        "badTagDist": null,
+        "createDate": 1549904405,
+        "favoriteCount": 286,
+        "discountInfo": null
+    }, {
+        "externalIds": [{
+            "appCode": "qunar",
+            "id": "chizhou_3039"
+        }, {
+            "appCode": "feizhu",
+            "id": "50080600"
+        }, {
+            "appCode": "ctrip",
+            "id": "837606"
+        }, {
+            "appCode": "elong",
+            "id": "90217744"
+        }, {
+            "appCode": "meituan",
+            "id": "5673706"
+        }],
+        "avgPrice": null,
+        "titleAliases": null,
+        "openDate": "2012-05年开业",
+        "geoPoint": {
+            "lon": 117.51776123047,
+            "lat": 30.62029838562
+        },
+        "unifiedId": 79720719,
+        "url": "http:\/\/hotel.qunar.com\/city\/chizhou\/dt-3039\/",
+        "dislikeCount": 0,
+        "description": "房间数：10间\n\n池州金凯瑞宾馆环境优雅，服务周到，我们以热忱的服务期待着您的到来！",
+        "openingHours": "入住时间: 12:00以后  离店时间: 12:00之前",
+        "price": 54,
+        "telephones": ["18956675607", "13866829179", "0-18956675607"],
+        "goodRatingRatio": 1,
+        "peculiarity": null,
+        "address": "贵池区站前区上海城宾馆集中区火车站汽车站斜对面B栋4楼429室",
+        "title": "池州金凯瑞宾馆",
+        "imageUrls": ["http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000djbiQ.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0007aML5.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0007aML4.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008wUDG.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200c090000003uxyzA703_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000djbjZ.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000djbgo.jpg", "http:\/\/userimg.qunar.com\/imgs\/201503\/30\/JhS1_tJWY4xgfN6pJ76.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000djbjM.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000djbi1.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0008wUDI.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000djbkc.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000djbh1.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/hotel\/837000\/836179\/5c8dbcf899dc4728bb3621879e242709_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000djbjy.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/hotel\/837000\/836179\/7d4c79b2a7ae43e1acd900ac7a1f8666_C_550_412_Q50.jpg_.webp"],
+        "state": "安徽",
+        "appCode": "idataapi",
+        "roomCount": 10,
+        "keyValues": [{
+            "key": null,
+            "value": "入住时间：14:00以后      离店时间：12:00以前"
+        }, {
+            "key": "儿童与加床",
+            "value": "不接受18岁以下客人单独入住。不接受18岁以下客人在无监护人陪同的情况下入住"
+        }, {
+            "key": "宠物",
+            "value": "允许携带宠物，不收取额外费用。"
+        }],
+        "honorCommentCount": 3,
+        "id": "79720719",
+        "facilities": null,
+        "infoScore": 0.9996937076586,
+        "city": "池州",
+        "promotions": null,
+        "country": "gujin",
+        "lowPrice": 63,
+        "rating": 5,
+        "tags": ["大床", "含早", "年度盛典", "闪电确认", "今夜特价", "双床", "免费取消"],
+        "ratingCount": 0,
+        "floorCount": null,
+        "commentCount": 324,
+        "decorationDate": "2012年装修",
+        "star": 2,
+        "minPrice": 40,
+        "likeCount": null,
+        "infrastructures": null,
+        "assistServices": null,
+        "district": "贵池区",
+        "brandName": "金凯瑞宾馆",
+        "pros": null,
+        "location": null,
+        "services": [{
+            "price": null,
+            "saleCount": null,
+            "id": "5",
+            "name": "有线上网",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "46",
+            "name": "免费wifi",
+            "marketPrice": null
+        }],
+        "hasWifi": 0,
+        "discountInfo": null,
+        "level": "二星级\/经济",
+        "favoriteCount": 296,
+        "businessDistrict": "市中心区域"
+    }, {
+        "externalIds": [{
+            "appCode": "bthhotels",
+            "id": "T31001"
+        }, {
+            "appCode": "qunar",
+            "id": "handan_4265"
+        }, {
+            "appCode": "feizhu",
+            "id": "54161030"
+        }, {
+            "appCode": "ctrip",
+            "id": "15951196"
+        }, {
+            "appCode": "elong",
+            "id": "92972756"
+        }, {
+            "appCode": "meituan",
+            "id": "165488981"
+        }],
+        "ratingCount": 20,
+        "openDate": "2018年",
+        "tipInfo": "不接待外宾及港澳台同胞\n如旅钱包在该店仅限于通过官网、APP、微信支付使用",
+        "unifiedId": 89431275,
+        "url": "http:\/\/www.bthhotels.com\/hotel\/T31001",
+        "description": "如家商旅酒店邯郸滏东南大街明珠广场店位于邯郸市城区主干道上，酒店对面为邯郸知名地标明珠广场，交通十分便利，周围商场、银行、特色食坊林立，地理位置优越。酒店西邻滏阳公园，北邻龙湖公园；距火车站、客运总站只有10分钟车程；距邯郸高速南北口均在15分钟车程之内；距汽车东站5分钟车程，邯郸高铁站15分钟车程；距邯郸飞机场20分钟车程；酒店对面有邯郸大型连锁超市，便利店；附近拥有邯郸市凌云中学、邯郸市第三十一中、邯山区第一中学，邯郸市第七医院；出行方便，环境优美；是您出差旅游的最佳选择。",
+        "openingHours": "入住时间: 14:00至18:00 离店时间: 12:00之前",
+        "createDate": 1540299602,
+        "telephones": ["0310-5508666"],
+        "goodRatingRatio": 1,
+        "ratingDist": [{
+            "key": "clean_grade_avg",
+            "value": 5
+        }, {
+            "key": "service_grade_avg",
+            "value": 5
+        }, {
+            "key": "shower_grade_avg",
+            "value": 5
+        }, {
+            "key": "sleep_grade_avg",
+            "value": 5
+        }],
+        "peculiarity": null,
+        "address": "邯郸市邯山区陵园路659号（靠近滏东南大街；酒店边标志物：明珠广场；公交站在酒店门口）",
+        "businessStatus": "开业",
+        "title": "如家商旅-邯郸滏东南大街明珠广场店（内宾）",
+        "imageUrls": ["http:\/\/p1.meituan.net\/0.0\/tdchotel\/eca15f39c774e67328e4f49e643db78e85182.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/873ae37627be654e5d5f905fb3107c2c7234012.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200t0t000000ibvt62826_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e5WgK.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/20010t000000iornj8318_C_550_412_Q50.jpg_.webp", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/687a5d37a1de17c0727bef6f6a7d005d7449415.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/f150ea76d4e63b4099b76095aa63bd328077362.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i2\/TB11i1VdQOWBuNjSsppkVJPgpXa_053904.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/a31fe951fa04b0845cf7e0db53b483f177901.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/35eb551d0b0f327e3096586c72b245c66139828.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/6f8fdd7ae1b34cf1bc054b57a0a8f83862416.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/ed291d56692f74facd47ec44ed0d93ed69639.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dURhJ.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/2bdf2c74c4804a466e7777d85fbdee667530957.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/f5cdd48c8c31179b08a0cc679e3fc5631621851.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e5WjB.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/704a1c6cbf3d984e5d910c09aa07fa5a6920437.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/35de155a7b5e2ce345a5eb7842a6b3a76704835.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000cqzZm.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i6\/TB1ML3YaS8YBeNkSnb4HlCevFXa_053903.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/T31001_n_7.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/6566749d0bc00d1e4c2a869bc8b0676569455.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/T31001_n_2.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/fdd763f0d061626ba402a79dfd36afab445544.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200o0p000000fvlk80F54_C_550_412_Q50.jpg_.webp", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/5a009d4f5f5c03b5536c631c6a0d19166921268.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/d08142fb80098ee0bf51457b2649b2e41501619.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dR5lH.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/T31001_n_6.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/2c150989b57db95de950164b77549d8f101952.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/7240b0bc83c250c08ff80e09c8bf9813409601.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e5WpQ.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/T31001_n_3.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/000dU9tt.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/a1207e8cf53650afe13b8334162db0b97855677.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/8d46acbbc0a7398474f52d4142be8e538487365.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/a9da81c66503493542c78caac2e0d6fe6869982.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/0e89b0ba4fef284894c0792960f51f1f7424360.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200k0t000000ig0vi2A36_C_550_412_Q50.jpg_.webp", "https:\/\/dimg04.c-ctrip.com\/images\/200l0p000000fwabaE8D0_C_550_412_Q50.jpg_.webp", "https:\/\/img.alicdn.com\/bao\/uploaded\/i5\/TB1NrsaaHZnBKNjSZFrHlCRLFXa_053903.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/T31001_n_1.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000cqA0g.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/620636d8b82a3d9de9ef3c7bd2ac836b9098584.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/4030308ddfaf58fde18f6444a29ce27c8453142.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/T31001_n_5.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/T31001_n_8.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/31e4b16447395010881ad6635391236e8256405.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e5WpE.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e5WnD.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/9cb35f0c0251e8b2b95f5d2db9b2bf84284456.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/be4546ae235a2e7eb12a2cbf3e8da959652986.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i2\/TB1Kyz5aOMnBKNjSZFoHlDOSFXa_053903.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000cqA0j.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/d0d9cd5d198f0fd2420b0f65eb9e41598132042.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/75d170e56d6bb1976f85092ac6a5a6358333166.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e5Wfj.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/3e6aae5e96552ab25ad05ca199bbd4ea137040.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/T31001_n_4.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i7\/TB18EP7aHorBKNjSZFj4xw_SpXa_053902.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/f898d017a264efe43253af864afa5f278636407.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/b01cfb3e954fc08b0964e607e07efbba6641247.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/7fd940e7e9dc9a23190563793327d2a340322.jpg"],
+        "pros": null,
+        "appCode": "idataapi",
+        "roomCount": 65,
+        "keyValues": [{
+            "key": null,
+            "value": "入住时间：14:00以后      离店时间：12:00以前"
+        }, {
+            "key": "膳食安排",
+            "value": "自助早餐 RMB 30"
+        }, {
+            "key": "宠物",
+            "value": "不可携带宠物。"
+        }],
+        "assistServices": ["行李寄存", "叫车服务", "全天前台", "洗衣服务", "停车场", "如旅钱包", "自助早餐", "邮政服务", "积分抵房费", "Apple Pay"],
+        "infoScore": 0.9996,
+        "decorationDate": "2018年",
+        "id": "89431275",
+        "facilities": null,
+        "commentCount": 2584,
+        "infrastructures": ["电热水壶", "电梯", "暖气"],
+        "avgPrice": null,
+        "promotions": null,
+        "country": "Yichun",
+        "rating": 4.98,
+        "price": 215,
+        "tags": ["含早", "免费取消", "大床", "会员权益", "闪电确认", "双床"],
+        "level": "二星级\/经济",
+        "goodTagDist": [{
+            "key": "干净卫生",
+            "value": 67
+        }, {
+            "key": "早餐赞",
+            "value": 12
+        }, {
+            "key": "房间大",
+            "value": 14
+        }, {
+            "key": "位置好",
+            "value": 108
+        }, {
+            "key": "服务热情",
+            "value": 180
+        }, {
+            "key": "床舒服",
+            "value": 78
+        }, {
+            "key": "环境优雅",
+            "value": 22
+        }, {
+            "key": "设施好",
+            "value": 74
+        }, {
+            "key": "性价比高",
+            "value": 40
+        }, {
+            "key": "价格实惠",
+            "value": 20
+        }, {
+            "key": "温馨",
+            "value": 3
+        }],
+        "businessDistrict": null,
+        "discountInfo": null,
+        "star": 2,
+        "minPrice": 0,
+        "likeCount": null,
+        "honorCommentCount": 305,
+        "services": [{
+            "price": null,
+            "saleCount": null,
+            "id": "19",
+            "name": "24小时热水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "20",
+            "name": "吹风机",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "46",
+            "name": "免费wifi",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "40",
+            "name": "免费洗漱用品",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "39",
+            "name": "免费瓶装水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "36",
+            "name": "行李寄存",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "42",
+            "name": "叫醒服务",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "38",
+            "name": "免费停车",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "41",
+            "name": "免费地图",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "43",
+            "name": "无烟房",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "45",
+            "name": "智能门锁",
+            "marketPrice": null
+        }],
+        "district": "邯郸县",
+        "brandName": "如家商旅酒店",
+        "location": null,
+        "lowPrice": 206,
+        "state": "河北",
+        "hasWifi": 1,
+        "badTagDist": null,
+        "city": "邯郸",
+        "favoriteCount": 332,
+        "geoPoint": {
+            "lon": 114.5187045,
+            "lat": 36.5951103
+        }
+    }, {
+        "externalIds": [{
+            "appCode": "bthhotels",
+            "id": "053539"
+        }, {
+            "appCode": "qunar",
+            "id": "yantai_15857"
+        }, {
+            "appCode": "ctrip",
+            "id": "19489165"
+        }, {
+            "appCode": "elong",
+            "id": "93258351"
+        }, {
+            "appCode": "meituan",
+            "id": "175372818"
+        }],
+        "avgPrice": null,
+        "openDate": "2018年",
+        "geoPoint": {
+            "lon": 119.9615126,
+            "lat": 37.1761996
+        },
+        "unifiedId": 89429919,
+        "goodTagDist": [{
+            "key": "干净卫生",
+            "value": 205
+        }, {
+            "key": "性价比高",
+            "value": 162
+        }, {
+            "key": "服务热情",
+            "value": 158
+        }, {
+            "key": "位置好",
+            "value": 93
+        }, {
+            "key": "价格实惠",
+            "value": 74
+        }, {
+            "key": "房间大",
+            "value": 54
+        }],
+        "description": "酒店位于莱州市府前东街519号，对面为莱州重点中学文峰中学，酒店门前、后院均有停车场，到大骋汽车站、莱州汽车总站仅8分钟车程，打车仅需10元！酒店距离莱州著名旅游景点神仙洞、云峰山、中花月季园15分钟车程，距离莱州三山岛、金沙滩海水浴场30分钟车程！酒店距离莱州市人民医院、莱州中医院仅5分钟车程！距离百货大楼、利群商厦、莱州购物广场、印象城购物中心打车不到10元！酒店门口有5路公交车，可直达汽车站和各大商场！",
+        "openingHours": "入住时间: 12:00至23:59 离店时间: 12:00之前",
+        "price": 150,
+        "telephones": ["0535-2818555"],
+        "goodRatingRatio": 1,
+        "ratingDist": [{
+            "key": "clean_grade_avg",
+            "value": 5
+        }, {
+            "key": "service_grade_avg",
+            "value": 5
+        }, {
+            "key": "shower_grade_avg",
+            "value": 5
+        }, {
+            "key": "sleep_grade_avg",
+            "value": 5
+        }],
+        "peculiarity": null,
+        "address": "莱州市府前东街519号（文峰中学对面）",
+        "title": "如家酒店·NEO-莱州府前东街文峰中学店",
+        "imageUrls": ["http:\/\/p1.meituan.net\/0.0\/tdchotel\/4b1ba518f72d7cff7e4a13faf214e58a50852.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/053539_n_5.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000eWFcQ.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/542034c0ec3195af9dd93acb641bf6f05037390.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/993f408b07de35287d66eba47aabfff14769235.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/053539_n_3.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/8c79b30e5b184a4b2eb3ca91277b9cba60922.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/e94018917c7dba73a71b461ec5c213d366300.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/4ea96f5acc0337d1c940a24868d70cff5290529.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/053539_n_4.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/053539_n_1.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/053539_n_8.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000eWF9r.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/1a85259cc138a7c6d2ea6bf2a00f772b5336799.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/29fafd221f14e1aba3865e8cc33024345178096.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/d792e2dd710d1feccfad8fa6beead67a4509712.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/f5d4cfd1300ee20eff9e0af20bb266a65849867.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200m0v000000jt1z03D0A_C_550_412_Q50.jpg_.webp", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/c03d63460376dbb6264a9ec73922c002204712.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/053539_n_2.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/c636778242edbccfc27065c54bd9ec2d6433820.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/ad989aa5f330ce8c447bd581148fce4c61829.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/fee7ba7b59d440bee7572863ddc840524358703.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200s0v000000jqjz3C019_C_550_412_Q50.jpg_.webp", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/766c95d8eee4858e3a78190fb2e8c781323998.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/30902d17f71a19af607d4573d25ebb384123427.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000eWFbo.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000eWFap.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000eWFb0.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/280u0s000000i8sheFDB5_C_550_412_Q50.jpg_.webp", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/2f9596595f799bb157f3654dd94cbcc3231524.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/5cce821c7161fc455a3b333247a0df2a5063356.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/cf127f5a7b9d22b061ed9d88d9bc1c1f252593.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/e1db7ec5f672aaea091795ceb60039926290012.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/280d0s000000i7c8922D9_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000eWFdy.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/e6fa64716609b62605f50ac701496ec55807753.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/d612077e8e9aafab0ece837339ed7b214455018.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/052ecc498071882144fea11ef6634bc45311331.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/ed193a6c9bbca12f206d188bfc622414118199.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/26f33aa1f456cb6f74cca96aa82201d76543285.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/cf77cdac7d4df8ae39ad7c3e1a7b9edf140710.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/767befe5e2192332a5dbf805919ef9fb6329462.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dTn8y.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/e7217d2c5857758f073956e7b930a5a75548183.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/03581855ed79c4ff765c44196306b54a98601.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/f1b241cdde58fe3392cb8fd42b2b29594759139.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/da7d00ee3d271bc881e27d7a5a18ef1a4908905.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/053539_n_6.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000eWFcn.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000eWF8w.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000eWF9X.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/d24f1299c5e9395161b4b25f68f8c86f79691.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/9ddce9c27b101d561397d3a421dbd7ff4797997.jpg", "https:\/\/image-homeinn.b0.upaiyun.com\/hotel_img\/053539_n_7.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/6cfcd661f1d65db64a592956bf28df1858077.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/08f0d77976347347252f362341aa23b8207034.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000eWFbL.jpg"],
+        "pros": null,
+        "appCode": "idataapi",
+        "roomCount": 64,
+        "keyValues": [{
+            "key": null,
+            "value": "入住时间：14:00以后      离店时间：12:00以前"
+        }, {
+            "key": "膳食安排",
+            "value": "自助早餐 RMB 20"
+        }, {
+            "key": "宠物",
+            "value": "不可携带宠物。"
+        }],
+        "honorCommentCount": 161,
+        "id": "89429919",
+        "businessStatus": "开业",
+        "infoScore": 0.9996,
+        "city": "烟台",
+        "promotions": null,
+        "state": "山东",
+        "rating": 4.98,
+        "infrastructures": ["电梯", "电热水壶"],
+        "tags": ["学校周边", "暖气开放"],
+        "tipInfo": "如旅钱包在该店仅限于通过官网、APP、微信支付使用",
+        "assistServices": ["洗衣房", "如旅钱包", "专票", "自助早餐", "洗衣服务", "接待外宾", "行李寄存", "全天前台", "停车场"],
+        "location": null,
+        "decorationDate": "2018年",
+        "star": 2,
+        "minPrice": 0,
+        "likeCount": null,
+        "services": [{
+            "price": null,
+            "saleCount": null,
+            "id": "19",
+            "name": "24小时热水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "20",
+            "name": "吹风机",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "5",
+            "name": "有线上网",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "46",
+            "name": "免费wifi",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "39",
+            "name": "免费瓶装水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "36",
+            "name": "行李寄存",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "42",
+            "name": "叫醒服务",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "12",
+            "name": "餐厅",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "43",
+            "name": "无烟房",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "40",
+            "name": "免费洗漱用品",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "45",
+            "name": "智能门锁",
+            "marketPrice": null
+        }],
+        "url": "http:\/\/www.bthhotels.com\/hotel\/053539",
+        "district": "莱州市",
+        "brandName": "如家酒店·NEO",
+        "createDate": 1540299602,
+        "discountInfo": null,
+        "level": "二星级\/经济",
+        "hasWifi": 1,
+        "badTagDist": null,
+        "commentCount": 1846,
+        "favoriteCount": 322,
+        "businessDistrict": null
+    }, {
+        "externalIds": [{
+            "appCode": "botao",
+            "id": "6100"
+        }, {
+            "appCode": "jinjiang",
+            "id": "6100"
+        }, {
+            "appCode": "plateno",
+            "id": "6100"
+        }, {
+            "appCode": "qunar",
+            "id": "nanchang_8417"
+        }, {
+            "appCode": "ctrip",
+            "id": "24036558"
+        }, {
+            "appCode": "elong",
+            "id": "93471303"
+        }, {
+            "appCode": "meituan",
+            "id": "183994592"
+        }],
+        "enviRating": 5,
+        "avgPrice": null,
+        "openDate": "2018-09-26",
+        "servRating": 5,
+        "businessStatus": "开业",
+        "url": "http:\/\/hotel.bestwehotel.com\/HotelDetail\/?hotelId=6100",
+        "sortId": null,
+        "openingHours": "入住时间: 12:00以后  离店时间: 12:00之前",
+        "price": 216,
+        "telephones": ["0791-85720111"],
+        "goodRatingRatio": 0,
+        "ratingDist": [{
+            "key": "全部评价",
+            "value": 451
+        }, {
+            "key": "好评",
+            "value": 446
+        }, {
+            "key": "中评",
+            "value": 3
+        }, {
+            "key": "差评",
+            "value": 2
+        }],
+        "peculiarity": null,
+        "address": "江西南昌塘镇莲富路晨晖金谷6号楼(近迎宾中大道，盛汇广场，小蓝工业园等)",
+        "infoScore": 0.99959999999078,
+        "title": "麗枫酒店(南昌小蓝工业园店)",
+        "imageUrls": ["http:\/\/p0.meituan.net\/0.0\/tdchotel\/bedb455539641b3ffba9e73e854c1840253278.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1EwE.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/4f725466268b5dc523b96d0f580c1903177405.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWHfhK76", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/036078230ec7d19b902919be6fe4d9c9123476.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/af975189e099bab4b4ad31db4cd67b25118882.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1EvK.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/c59bf6cc3c0d1b660851a60100c0a6dc558749.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/81f682ea21ae90b572d6c2ff5ba8cbe8115474.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/20010w000000l33cl29D2_C_550_412_Q50.jpg_.webp", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/1020fd034006029d31ccd52778676fd9141865.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200e0w000000ksxh9E016_C_550_412_Q50.jpg_.webp", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/144278e14d6de6c77f9962dab950056f106336.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1EwM.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/77e03b1c11b01196ff4580ce02d60018105443.jpg", "http:\/\/images.plateno.com\/images\/inn\/18miwrCQsV", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/9126ea8a07677c2360a0e911fd2de6ea574759.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/e282d6cbe01c023171c1903e952f23dd104983.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWwzJ7oX", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/37f55c42780ea56833ebdf24cf3ae714553226.jpg", "http:\/\/images.plateno.com\/images\/inn\/18mivGfsSt", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1ExH.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWPOMm2m", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/ceb47a88b1a6fbe4e4b2ae11d697a80a110150.jpg", "http:\/\/images.plateno.com\/images\/inn\/18miwrnjVt", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1Exd.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWwzUROg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1ExP.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/14a7530f3df7a5b95e9acb4d8060daa31972631.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBNm0.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1Ewf.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1EvR.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1EvD.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nX8LmP85", "http:\/\/images.plateno.com\/images\/inn\/18nWwAnOOC", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/705996007fa7430c08935ef96a88ae71133907.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nX3WA8WN", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/2487906d1dd03cb2d59661eb04a6c95a182851.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBNma.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/b4326ee0cdac5f9f4b77913ddc713e7f87111.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWEZGRBN", "http:\/\/images.plateno.com\/images\/inn\/18nX1nSLjM", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/e3bc1a9cf5fad3b3841d5aa6500a7f9a107790.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/280n0w000000kl3wr5466_C_550_412_Q50.jpg_.webp", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/599658e3414b4f8a3f5b70bfacd311aa118494.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/96ac6e99239502d98fc0b3cabc2631c9105207.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/03220769e67ff07fc89d512212cff887457963.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWXUFiPk", "http:\/\/images.plateno.com\/images\/inn\/18nWxmco97", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1Ew9.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWwzWd3z", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1EwZ.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/fa71f7459bb7f7f4aedb4b6c2acdb990135414.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/77aed34ef0398732f39d5374148bcf6775719.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/7a382806edc80250760d607391fc0d97578139.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/c79061c2b5da228ace1913ee6387d98498444.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nX8Nwnzd", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/dfd4eeb5fc295cd462e324dd52cd671f1521292.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBNmh.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/bd1ed9a237eca40b1b0c629408b77418523604.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/56c036f356b06c1ab9934a7c99952c51106506.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/6eaa167965be6bf8ca5dc5215f738a5096821.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWZC7Wfz", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/a739621fca93309f6add057404302627612079.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/d603080ee614fb4177237a1336cd3bfc136440.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWF5jfvo", "http:\/\/images.plateno.com\/images\/inn\/18nWxmdEbQ", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/4928130e7f1eda13a37abb00dd5abeff578074.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBNlb.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/9c61ed08b8f7dbdf7e377a3a701d0adf91717.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/1a4656b8bcb24f91839a0a99e2bb8698152725.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBNmQ.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWZC3K6w", "http:\/\/images.plateno.com\/images\/inn\/18nX8Ltf9w", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/695c9503ba581378f25f792213f74644183914.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWQXb5Z0", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/456c0827a0890f2687372248aae1f7e3105983.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWHdjBgU", "http:\/\/images.plateno.com\/images\/inn\/18nWF5wfXp", "http:\/\/images.plateno.com\/images\/inn\/18nX1wBP6w", "http:\/\/images.plateno.com\/images\/inn\/18nWEZWYzj", "http:\/\/images.plateno.com\/images\/inn\/18miwr9OfY", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBNlw.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWHf7kX5", "http:\/\/images.plateno.com\/images\/inn\/18nX9cZFNI", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1Ext.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/2a3d0f99700c255fe83b217418f1987b79134.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/15956a5ed304d9145fc2334d6af47972108757.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/5de4794a65dfdc82157054b30474ea3d473516.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1Ewy.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWPOIhHb", "http:\/\/images.plateno.com\/images\/inn\/18nWxml7fx", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBNmK.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWXUBRvv", "http:\/\/images.plateno.com\/images\/inn\/18nWQBMOx9", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/151fa2496afc557942b68fa875c16e8b117183.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200p0w000000kpd6n0884_C_550_412_Q50.jpg_.webp", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/6bd656014ef0bf2b1a7baf43befb6b211044938.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/ecebaea51202afa99d4eb081a734b938126533.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/acba3a1c80ecfc7c06647f116919b54991689.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/fb5eac3244eb30e776d00522a848e68693305.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWZzTLEv", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1ExC.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/1e3ea4ce48a820e4bb8f52e2df028290108438.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nX1nJzBb", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1Exl.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200h0w000000krqoiA382_C_550_412_Q50.jpg_.webp", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/ad43d5ec8d1f9fa3280a5538b707cb5097104.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBNne.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1EwT.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/d5e4217f080ee8185425261c57129dc5654324.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/1317e951b49fb61e665fd98f39ae242993709.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1EvX.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1Ex7.jpg", "http:\/\/images.plateno.com\/images\/inn\/18miwrrqRW", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBNm6.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/7199ee67e15539ab3347ebe1b57a8834116293.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/2c0d2a089811b6b790cbf8bd0fe101361304405.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/1cd1599f79676d96d2a54d99d3ecddad108765.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/8998d8d782757443b005e823519f1e1a531551.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/748b0cce2f6ef1ea16cbe46bebf2ab87103299.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWPOZeGv", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/da1e0aec773566c365a969c515b954cb560238.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/a565144b1831e83d617f2038150549ac126056.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nX1nEXre", "http:\/\/images.plateno.com\/images\/inn\/18nWXXmt20", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1Ewm.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/dce5d8c90c879a4a05da3fc76d6b8ac4112701.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/ea5066a4636f0e30bad40849d1021adc117328.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000g1Ewr.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/9f31d6648045a21875640ea83b06c3f6557445.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000fBNme.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWHcGpvI", "http:\/\/images.plateno.com\/images\/inn\/18nWZzJzuV", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/2045059123d2c9fe3f60812015eb894f105746.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/f792ad89b23549b8ee374ea6f0471520737589.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWXUyinO", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/c7cc02bd0f79157314d0321793b9837793852.jpg", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/a0685068ee989fac933cfa671967c63c1416685.jpg", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/7529222d95706e087de9e51bdfdda959131873.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/20060w000000kqsb8C40D_C_550_412_Q50.jpg_.webp", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/932402bdf36b95f9ab3168b0a6f106f3100019.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWXXfNoP", "http:\/\/images.plateno.com\/images\/inn\/18nWZzOEh4", "http:\/\/p0.meituan.net\/0.0\/tdchotel\/8932607ae4e71ce01c7331e3d6b0b411503954.jpg", "http:\/\/images.plateno.com\/images\/inn\/18nWHcR1Gb", "http:\/\/p1.meituan.net\/0.0\/tdchotel\/0d02fe368a4effea34f558e67811c4f3594763.jpg"],
+        "services": [{
+            "saleCount": null,
+            "name": "支持银联",
+            "marketPrice": null,
+            "id": "Ser0050"
+        }, {
+            "saleCount": null,
+            "name": "叫醒服务",
+            "marketPrice": null,
+            "id": "Ser0001"
+        }, {
+            "saleCount": null,
+            "name": "WiFi 免费",
+            "marketPrice": null,
+            "id": "Ser0106"
+        }, {
+            "saleCount": null,
+            "name": "特快退房服务",
+            "marketPrice": null,
+            "id": "Ser0132"
+        }, {
+            "saleCount": null,
+            "name": "迎宾糖果",
+            "marketPrice": null,
+            "id": "Ser0099"
+        }, {
+            "saleCount": null,
+            "name": "电话服务",
+            "marketPrice": null,
+            "id": "Ser0130"
+        }, {
+            "saleCount": null,
+            "name": "行李托寄",
+            "marketPrice": null,
+            "id": "Ser0008"
+        }, {
+            "saleCount": null,
+            "name": "收费自助早餐",
+            "marketPrice": null,
+            "id": "Ser0128"
+        }, {
+            "saleCount": null,
+            "name": "自助早餐",
+            "marketPrice": null,
+            "id": "Ser0037"
+        }, {
+            "saleCount": null,
+            "name": "红酒",
+            "marketPrice": null,
+            "id": "Ser0136"
+        }, {
+            "saleCount": null,
+            "name": "24小时前台服务",
+            "marketPrice": null,
+            "id": "Ser0117"
+        }, {
+            "saleCount": null,
+            "name": "洗澡音乐",
+            "marketPrice": null,
+            "id": "Ser0070"
+        }, {
+            "saleCount": null,
+            "name": "24小时大堂经理",
+            "marketPrice": null,
+            "id": "Ser0127"
+        }, {
+            "saleCount": null,
+            "name": "擦鞋服务",
+            "marketPrice": null,
+            "id": "Ser0007"
+        }, {
+            "saleCount": null,
+            "name": "复印服务",
+            "marketPrice": null,
+            "id": "Ser0123"
+        }, {
+            "saleCount": null,
+            "name": "熨烫服务",
+            "marketPrice": null,
+            "id": "Ser0090"
+        }, {
+            "saleCount": null,
+            "name": "香薰",
+            "marketPrice": null,
+            "id": "Ser0069"
+        }, {
+            "saleCount": null,
+            "name": "代客洗衣",
+            "marketPrice": null,
+            "id": "Ser0073"
+        }, {
+            "saleCount": null,
+            "name": "时钟\/闹钟",
+            "marketPrice": null,
+            "id": "Ser0126"
+        }, {
+            "saleCount": null,
+            "name": "雨伞租借服务",
+            "marketPrice": null,
+            "id": "Ser0016"
+        }, {
+            "saleCount": null,
+            "name": "果盘",
+            "marketPrice": null,
+            "id": "Ser0140"
+        }, {
+            "saleCount": null,
+            "name": "24小时保安",
+            "marketPrice": null,
+            "id": "Ser0107"
+        }],
+        "appCode": "idataapi",
+        "roomCount": 90,
+        "keyValues": [{
+            "key": "酒店政策",
+            "value": ""
+        }, {
+            "key": "服务评分",
+            "value": 5
+        }, {
+            "key": "环境评分",
+            "value": 5
+        }, {
+            "key": "设备评分",
+            "value": 5
+        }, {
+            "key": "地理位置评分",
+            "value": 5
+        }],
+        "honorCommentCount": 95,
+        "city": "南昌",
+        "unifiedId": 89315364,
+        "id": "89315364",
+        "goodTagDist": [{
+            "key": "停车方便",
+            "value": 4
+        }, {
+            "key": "干净卫生",
+            "value": 6
+        }, {
+            "key": "早餐赞",
+            "value": 9
+        }, {
+            "key": "位置好",
+            "value": 25
+        }, {
+            "key": "服务热情",
+            "value": 55
+        }, {
+            "key": "床舒服",
+            "value": 32
+        }, {
+            "key": "设施齐全",
+            "value": 14
+        }, {
+            "key": "环境优雅",
+            "value": 4
+        }, {
+            "key": "床上用品很新",
+            "value": 4
+        }, {
+            "key": "性价比高",
+            "value": 4
+        }],
+        "emails": null,
+        "location": null,
+        "description": "麗枫酒店南昌小蓝工业园店坐落于南昌县莲塘莲富路，临迎宾中大道、绕城高速两条主干道，其位于象湖新城,距小蓝工业园商圈仅1公里,距离购物中心“玺悦城”仅2公里，出行方便、快捷；位置闹中取静；酒店作为铂涛集团旗下中高端品牌酒店，房间全部配备了慕思床垫、空气净化系统、房间智能化控制系统、超大屏幕液晶数字电视、迷你吧冰箱、定制尊享香氛洗护用品、无线wifi畅游。酒店配套自助餐厅、休闲吧，是您商旅、洽谈、会友的好去处。在您入住期间，我们将秉承“朋友式服务”理念；让您体会到朋友般的温暖；希望这一切可以带给您美好的入住回忆。",
+        "promotions": null,
+        "country": "Dezhou",
+        "rating": 4.98,
+        "assistServices": ["叫车服务", "会议室", "行李寄存", "邮政服务", "全天前台"],
+        "tags": ["商务出行", "购物便捷"],
+        "infrastructures": ["高射投影仪", "晾衣绳", "拖鞋", "会议厅", "电热水壶", "有线电视", "电子磁卡门锁", "无线WiFi覆盖", "空调", "24小时热水", "速热淋浴", "数字电视", "浴室化妆放大镜", "插头转换器", "中央空调", "毛巾", "浴巾", "220伏交流电", "客房有喷洒装置", "公共区域空调", "220伏直流电", "前台保险柜", "浴帽", "无线上网", "会议设备", "遮光窗帘", "电梯", "家庭房", "沙发", "沙发床", "吹风机", "迷你吧", "餐厅", "浴缸", "棋牌室", "独立卫浴", "多用电源插座", "液晶电视机", "冰箱", "电子遥控窗帘", "吸烟房", "免费洗漱用品", "烟雾探测器", "免费茶包", "星级优眠床垫", "停车场", "针线包", "高端卫浴设备", "公用干洗机", "书桌\/椅", "剃须刀", "洗手间", "公共广播系统", "淋浴房", "写字台", "免费国内长途", "全部洗浴间电话", "免费瓶装水", "休息区", "熨斗及熨衣板(随叫随到）", "公共区域WiFi免费", "躺椅", "110V电压插"],
+        "pros": null,
+        "geoPoint": {
+            "lon": 115.924462,
+            "lat": 28.53546
+        },
+        "discountInfo": null,
+        "star": 4,
+        "minPrice": 0,
+        "likeCount": null,
+        "businessDistrict": "象湖新城，小蓝工业园商圈",
+        "state": "江西",
+        "district": "南昌县",
+        "brandName": "麗枫",
+        "infraRating": 5,
+        "commentCount": 1190,
+        "createDate": 1549899004,
+        "hasWifi": 1,
+        "badTagDist": null,
+        "level": "四星级\/高档",
+        "favoriteCount": 92,
+        "decorationDate": "2018年"
+    }, {
+        "externalIds": [{
+            "appCode": "botao",
+            "id": "5435"
+        }, {
+            "appCode": "jinjiang",
+            "id": "5435"
+        }, {
+            "appCode": "plateno",
+            "id": "5435"
+        }, {
+            "appCode": "qunar",
+            "id": "nanchong_4162"
+        }, {
+            "appCode": "feizhu",
+            "id": "54227043"
+        }, {
+            "appCode": "ctrip",
+            "id": "6803932"
+        }, {
+            "appCode": "elong",
+            "id": "90256957"
+        }, {
+            "appCode": "meituan",
+            "id": "163463581"
+        }],
+        "businessDistrict": ["周子古镇"],
+        "openDate": "2018-03-23",
+        "commentCount": 6906,
+        "unifiedId": 81000255,
+        "url": "http:\/\/hotel.bestwehotel.com\/HotelDetail\/?hotelId=5435",
+        "sortId": null,
+        "openingHours": "入住时间: 14:00以后  离店时间: 12:00之前",
+        "price": 248,
+        "telephones": ["0817-5116677", "15982297237"],
+        "goodRatingRatio": 1,
+        "peculiarity": null,
+        "address": "蓬安县建设中路1号五星花园旁",
+        "title": "希岸·轻雅酒店(南充蓬安五星花园店)",
+        "imageUrls": ["http:\/\/images.plateno.com\/images\/inn\/17Ra57Z1lq", "http:\/\/images.plateno.com\/images\/inn\/17Ra5V8CXv", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000csajX.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000f0H9X.jpg", "http:\/\/images.plateno.com\/images\/inn\/17Ra4mzFum", "http:\/\/images.plateno.com\/images\/inn\/17Ra1YPjeO", "http:\/\/images.plateno.com\/images\/inn\/17RiJAMIPw", "http:\/\/images.plateno.com\/images\/inn\/17Ra2yB5Qa", "http:\/\/images.plateno.com\/images\/inn\/17RxqlJTIm", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000f0Ha6.jpg", "http:\/\/images.plateno.com\/images\/inn\/17RiHT1uXF", "http:\/\/images.plateno.com\/images\/inn\/17RiJADMIF", "http:\/\/images.plateno.com\/images\/inn\/17RabUdk9K", "http:\/\/images.plateno.com\/images\/inn\/17RablgbvN", "https:\/\/img.alicdn.com\/bao\/uploaded\/i8\/TB1FROSbGmWBuNkHFJHdiiatVXa_022732.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000f0H9U.jpg", "http:\/\/images.plateno.com\/images\/inn\/17Rac90fNc", "http:\/\/images.plateno.com\/images\/inn\/17R9WD8FqK", "http:\/\/images.plateno.com\/images\/inn\/17Ra2MVphB", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dhcuu.jpg", "http:\/\/images.plateno.com\/images\/inn\/17RiHQiMvf", "http:\/\/images.plateno.com\/images\/inn\/17RabtRH2g", "http:\/\/images.plateno.com\/images\/inn\/17Ra2X6qAM", "https:\/\/img.alicdn.com\/bao\/uploaded\/i1\/TB1gxJ_bSYTBKNjSZKbdihJ8pXa_022732.jpg", "http:\/\/images.plateno.com\/images\/inn\/17Rac1uydT", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000f0H9L.jpg", "http:\/\/images.plateno.com\/images\/inn\/17RiHPmCSQ", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000f0Han.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i5\/TB1zeiQbHZnBKNjSZFKS9oGOVXa_022733.jpg", "https:\/\/img.alicdn.com\/bao\/uploaded\/i7\/TB1PZ88bFooBKNjSZPhS9o2CXXa_022733.jpg", "http:\/\/images.plateno.com\/images\/inn\/17Ra4CkQOK", "http:\/\/images.plateno.com\/images\/inn\/17Ra7cS1AY", "https:\/\/dimg04.c-ctrip.com\/images\/200l0s000000hiqc20C24_C_550_412_Q50.jpg_.webp", "http:\/\/images.plateno.com\/images\/inn\/17Ra6Tnee2", "http:\/\/images.plateno.com\/images\/inn\/17Ra7Wo6nz", "http:\/\/images.plateno.com\/images\/inn\/17RabCD6vg", "http:\/\/images.plateno.com\/images\/inn\/17Ra6bepBo", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000f0H9P.jpg", "http:\/\/images.plateno.com\/images\/inn\/17RxqlRrYD", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000f0Haf.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000f0Haq.jpg", "http:\/\/images.plateno.com\/images\/inn\/17Rxr5Kr9H", "http:\/\/images.plateno.com\/images\/inn\/17RackSIyX", "http:\/\/images.plateno.com\/images\/inn\/17Ra5j3vMq", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000eFNjx.jpg", "http:\/\/images.plateno.com\/images\/inn\/17Ra2aniuT", "https:\/\/img.alicdn.com\/bao\/uploaded\/i8\/TB1M6N3bJknBKNjSZKPS9l6OFXa_022733.jpg", "http:\/\/images.plateno.com\/images\/inn\/17Ra7nHzUC", "https:\/\/dimg04.c-ctrip.com\/images\/20040q000000ga5qgC312_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000f0Hab.jpg", "http:\/\/images.plateno.com\/images\/inn\/17RiHr2cvH", "http:\/\/images.plateno.com\/images\/inn\/17RabLAiYP", "http:\/\/images.plateno.com\/images\/inn\/17RxqoMifW", "http:\/\/images.plateno.com\/images\/inn\/17Ra5DpYpF", "http:\/\/images.plateno.com\/images\/inn\/17Ra7LEQhu", "http:\/\/images.plateno.com\/images\/inn\/18cWY1Msgm", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000f0Ha0.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200c0s000000hl8uqB9C5_C_550_412_Q50.jpg_.webp", "http:\/\/images.plateno.com\/images\/inn\/17RiHRNvIS", "http:\/\/images.plateno.com\/images\/inn\/17RxqlBFPr", "http:\/\/images.plateno.com\/images\/inn\/17Ra0SMkKL", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000f0Haj.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000f0H9G.jpg", "http:\/\/images.plateno.com\/images\/inn\/17Ra738eDd", "http:\/\/images.plateno.com\/images\/inn\/17Ra1NLpdT", "http:\/\/images.plateno.com\/images\/inn\/17Ra2nB8mx"],
+        "state": "四川",
+        "appCode": "idataapi",
+        "roomCount": 84,
+        "keyValues": [{
+            "key": null,
+            "value": "入住时间：14:00以后      离店时间：12:00以前"
+        }, {
+            "key": "膳食安排",
+            "value": "酒店不提供早餐"
+        }, {
+            "key": "宠物",
+            "value": "允许携带宠物，不收取额外费用。"
+        }],
+        "honorCommentCount": 350,
+        "businessStatus": "开业",
+        "infoScore": 0.9996,
+        "id": "81000255",
+        "facilities": null,
+        "emails": null,
+        "city": "南充",
+        "rating": 4.98,
+        "promotions": null,
+        "country": null,
+        "lowPrice": 215,
+        "ratingCount": 55,
+        "location": null,
+        "description": "希岸酒店是铂涛集团旗下一个定位为时尚轻奢跨界精品的酒店品牌，以“小幸感，宠你开始”为核心价值主张，为客人创造一个优雅、经典、精致的气质专属空间，倡导一种旅途中的新生活态度，Xana life——无论何时，出游何地，选择一个贴心、懂自己的休憩空间。\n 希岸·轻雅酒店南充蓬安五星花园店位于南充市蓬安县建设中路1号（五星花园旁），毗邻4A级嘉陵桑梓、周子古镇、龙角山风景区。酒店按时尚现代装修风格装修，主色调以希岸蓝及白色为主。酒店客房内配置梦百合舒适零压感床垫以及先进的客控系统，淡黄的灯光，温暖强大的水流，封包洁净浴巾，极速WiFi上网，给您带来舒适的体验。提供24小时住宿登记、四季养颜茶、提拉行李进房间等服务。 \n交通：酒店位于蓬安五星花园枢纽处，距汽车站、火车站仅10分钟车程，距嘉陵桑梓、周子古镇风景区仅需8分钟车程，酒店门口有201路、5路、6路公交车，去往相如广场、文化公园、亿联国际商贸城等地均可到达。 \n购物：酒店对面有海澜之家、太平洋大众服饰城，酒店出门右手边即是建设路购物街，希岸·轻雅酒店是您商务出差、休闲娱乐的最佳选择！",
+        "decorationDate": null,
+        "assistServices": ["全天前台", "行李寄存", "邮政服务"],
+        "discountInfo": null,
+        "star": 4,
+        "minPrice": 288,
+        "likeCount": null,
+        "infrastructures": ["停车场", "客房免费无线上网", "24小时热水", "浴室扶手", "全部房间内高速上网", "空调", "免费瓶装水", "浴巾", "阳台", "洁净封包毛巾", "免费洗漱用品", "无线上网", "独立卫浴", "宠物不可入内", "24小时热水", "免费市内电话", "速热淋浴", "免费茶包", "剃须刀", "写字台", "拖鞋", "免费瓶装水", "客房免费宽带上网", "独立卫浴", "浴巾", "沙发床", "国际长途电话", "手帕巾", "书桌\/椅", "免费洗漱用品", "洁净封包毛巾", "无线上网", "空调", "电热水壶", "免费洗漱用品", "遮光窗帘", "公共音响系统", "洗手间", "免费瓶装水", "空调", "城市景观", "拖鞋", "浴巾", "书桌\/椅", "沙发床", "休息区", "电子磁卡门锁", "液晶电视机", "棋牌室", "拖鞋", "免费茶包", "24小时热水", "书桌\/椅", "无线WiFi覆盖", "速热淋浴", "空调", "剃须刀", "独立卫浴", "独立卫浴", "电传", "免费茶包", "免费茶包", "浴帽", "客房免费宽带上网", "淋浴房", "空调", "沙发床", "速热淋浴", "浴室扶手", "遮光窗帘", "速热淋浴", "免费瓶装水", "独立卫浴", "有线电视", "剃须刀", "220伏交流电", "液晶电视机", "无线WiFi覆盖", "毛巾", "电热水壶", "免费瓶装水", "国内长途电话", "洗手间", "电热水壶", "免费瓶装水", "浴巾", "浴帽", "大堂区域无线网络", "洁净封包毛巾", "速热淋浴", "全部房间内高速上网", "洁净封包毛巾", "免费市内电话", "浴巾", "多用电源插座", "书桌\/椅", "客房免费宽带上网", "毛巾", "有线电视", "24小时热水", "空调", "洁净封包毛巾", "公共区域空调", "洗手间", "免费国内长途电话", "免费市内电话", "免费洗漱用品", "电梯", "沙发", "免费茶包", "写字台", "遮光窗帘", "遮光窗帘", "电热水壶", "浴室扶手", "免费市内电话", "遮光窗帘", "浴巾", "免费茶包", "毛巾", "无线上网", "公共区域WiFi免费", "国际长途电话", "拖鞋", "免费洗漱用品", "有线电视", "沙发", "免费洗漱用品", "毛巾", "书桌\/椅", "浴帽", "免费市内电话", "浴帽", "国内长途电话", "茶室", "无线WiFi覆盖", "免费停车", "速热淋浴", "24小时热水", "拖鞋", "毛巾", "洁净封包毛巾", "客房免费宽带上网", "毛巾", "休憩区", "书桌\/椅", "客房免费宽带上网", "无线上网", "阳台", "吹风机", "沙发", "沙发"],
+        "pros": null,
+        "district": "蓬安县",
+        "brandName": "希岸·轻雅",
+        "geoPoint": {
+            "lon": 106.407582,
+            "lat": 31.031429
+        },
+        "services": [{
+            "saleCount": null,
+            "name": "特快退房服务",
+            "marketPrice": null,
+            "id": "Ser0132"
+        }, {
+            "saleCount": null,
+            "name": "24小时大堂经理",
+            "marketPrice": null,
+            "id": "Ser0127"
+        }, {
+            "saleCount": null,
+            "name": "24小时前台服务",
+            "marketPrice": null,
+            "id": "Ser0117"
+        }, {
+            "saleCount": null,
+            "name": "夜床服务",
+            "marketPrice": null,
+            "id": "Ser0011"
+        }, {
+            "saleCount": null,
+            "name": "迎宾糖果",
+            "marketPrice": null,
+            "id": "Ser0099"
+        }, {
+            "saleCount": null,
+            "name": "WiFi 免费",
+            "marketPrice": null,
+            "id": "Ser0106"
+        }, {
+            "saleCount": null,
+            "name": "24小时行李服务",
+            "marketPrice": null,
+            "id": "Ser0133"
+        }, {
+            "saleCount": null,
+            "name": "特快入住登记服务",
+            "marketPrice": null,
+            "id": "Ser0121"
+        }, {
+            "saleCount": null,
+            "name": "支持银联",
+            "marketPrice": null,
+            "id": "Ser0050"
+        }, {
+            "saleCount": null,
+            "name": "叫醒服务",
+            "marketPrice": null,
+            "id": "Ser0001"
+        }, {
+            "saleCount": null,
+            "name": "复印服务",
+            "marketPrice": null,
+            "id": "Ser0123"
+        }, {
+            "saleCount": null,
+            "name": "行李托寄",
+            "marketPrice": null,
+            "id": "Ser0008"
+        }, {
+            "saleCount": null,
+            "name": "24小时保安",
+            "marketPrice": null,
+            "id": "Ser0107"
+        }],
+        "createDate": 1540731603,
+        "hasWifi": 1,
+        "tags": ["大床", "含早", "闪电确认", "会员权益", "双床", "免费取消"],
+        "level": "四星级\/高档",
+        "favoriteCount": 278,
+        "avgPrice": 235.33
+    }, {
+        "externalIds": [{
+            "appCode": "qunar",
+            "id": "dalian_10601"
+        }, {
+            "appCode": "feizhu",
+            "id": "51289852"
+        }, {
+            "appCode": "ctrip",
+            "id": "5081457"
+        }, {
+            "appCode": "elong",
+            "id": "91203609"
+        }, {
+            "appCode": "meituan",
+            "id": "78322359"
+        }],
+        "ratingCount": 2,
+        "titleAliases": null,
+        "openDate": "2015年",
+        "geoPoint": {
+            "lon": 121.59082794189,
+            "lat": 38.895992279053
+        },
+        "unifiedId": 79977498,
+        "url": "http:\/\/hotel.qunar.com\/city\/dalian\/dt-10601\/",
+        "dislikeCount": 0,
+        "description": "房间数：34间\n\n客房干净卫生，环境舒适，交通便利，临近星海广场，设施设备齐全，服务周到，环境温馨，宾至如归。\n",
+        "openingHours": "入住时间: 12:00以后  离店时间: 12:00之前",
+        "infrastructures": ["去哪儿初品洗漱保障", "电梯"],
+        "telephones": ["13840977605", "13940903705"],
+        "goodRatingRatio": 1,
+        "peculiarity": null,
+        "address": "大连-沙河口区-高尔基路488号城市旋律-，凯德和平广场南门马路斜对面。",
+        "title": "Q加·好时光酒店式公寓(大连星海广场店)",
+        "imageUrls": ["http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e8cKW.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dqmgA.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/200f0b0000005g2vq41BA_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dqmh2.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e8cJe.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_0009s7cF.jpg", "http:\/\/userimg.qunar.com\/imgs\/201609\/21\/JhS1_tbgz20v_lnlJ76.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e8cK4.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000e8cLA.jpg", "https:\/\/dimg04.c-ctrip.com\/images\/20020s000000hxy1t717B_C_550_412_Q50.jpg_.webp", "https:\/\/dimg04.c-ctrip.com\/images\/20060b0000005g2j97877_C_550_412_Q50.jpg_.webp", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dtUSl.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dtUTj.jpg", "http:\/\/pavo.elongstatic.com\/i\/h5hotel350_350\/nw_000dtUUN.jpg"],
+        "pros": null,
+        "appCode": "idataapi",
+        "roomCount": 34,
+        "keyValues": [{
+            "key": null,
+            "value": "入住时间：14:00以后      离店时间：12:00以前"
+        }, {
+            "key": "儿童与加床",
+            "value": "不接受18岁以下客人单独入住。不接受18岁以下客人在无监护人陪同的情况下入住加床政策、儿童人数请参见您所选定的客房政策，若超过房型限定人数，可能需收取额外费用。提出的任何要求均需获得酒店的确认，所有服务详情以酒店告知为准。"
+        }, {
+            "key": "膳食安排",
+            "value": "酒店不提供早餐"
+        }, {
+            "key": "宠物",
+            "value": "不可携带宠物。"
+        }],
+        "assistServices": ["全天前台", "行李寄存", "洗衣服务"],
+        "id": "79977498",
+        "facilities": null,
+        "infoScore": 0.9996,
+        "decorationDate": null,
+        "promotions": null,
+        "country": "Dandong",
+        "lowPrice": 108,
+        "commentCount": 2979,
+        "tags": ["含早", "免费取消", "年度盛典", "大床", "闪电确认", "双床"],
+        "honorCommentCount": 1557,
+        "floorCount": null,
+        "level": "二星级\/经济",
+        "discountInfo": null,
+        "star": 2,
+        "minPrice": 115,
+        "likeCount": null,
+        "businessDistrict": "星海广场",
+        "price": 119.5,
+        "district": "西岗区",
+        "brandName": "Q加",
+        "services": [{
+            "price": null,
+            "saleCount": null,
+            "id": "19",
+            "name": "24小时热水",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "20",
+            "name": "吹风机",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "5",
+            "name": "有线上网",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "46",
+            "name": "免费wifi",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "36",
+            "name": "行李寄存",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "42",
+            "name": "叫醒服务",
+            "marketPrice": null
+        }, {
+            "price": null,
+            "saleCount": null,
+            "id": "38",
+            "name": "免费停车",
+            "marketPrice": null
+        }],
+        "location": null,
+        "state": "辽宁",
+        "hasWifi": 0,
+        "city": "大连",
+        "avgPrice": null,
+        "favoriteCount": 256,
+        "rating": 4.98
+    }],
+    "total": 1249627,
+    "dataType": "hotel",
+    "hasNext": true,
+    "pageToken": "20:WzAuOTk5NiwiaWRhdGFhcGkiLCI3OTk3NzQ5OCJd",
+    "retcode": "000000"
+}
